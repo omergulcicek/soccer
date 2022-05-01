@@ -1,0 +1,6661 @@
+[
+  {
+    "id": 28049320,
+    "name": "Harry Kane",
+    "team": "Tottenham",
+    "country": "England",
+    "info": {
+      "age": 28,
+      "position": "AMC, ST",
+      "foot": "Both",
+      "height": 188,
+      "weight": 86
+    },
+    "rating": { "ability": 92, "potential": 93 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 9,
+        "crossing": 16,
+        "dribbling": 14,
+        "finishing": 19,
+        "firsttouch": 15,
+        "freekick": 12,
+        "heading": 15,
+        "longshots": 16,
+        "longthrows": 6,
+        "marking": 10,
+        "passing": 18,
+        "penalty": 20,
+        "tackling": 11
+      },
+      "mental": {
+        "aggression": 11,
+        "anticipation": 16,
+        "bravery": 16,
+        "composure": 18,
+        "concentration": 15,
+        "decisions": 16,
+        "determination": 19,
+        "flair": 12,
+        "leadership": 15,
+        "offtheball": 16,
+        "positioning": 11,
+        "teamwork": 18,
+        "vision": 18,
+        "workrate": 18
+      },
+      "physical": {
+        "aggression": 9,
+        "anticipation": 16,
+        "bravery": 14,
+        "composure": 19,
+        "concentration": 15,
+        "decisions": 12,
+        "determination": 15,
+        "flair": 16
+      }
+    }
+  },
+  {
+    "id": 91011532,
+    "name": "Willi Orbán",
+    "team": "RB Leipzig",
+    "country": "Hungary",
+    "info": {
+      "age": 29,
+      "position": "DC",
+      "foot": "Right",
+      "height": 186,
+      "weight": 87
+    },
+    "rating": { "ability": 70, "potential": 71 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 5,
+        "crossing": 7,
+        "dribbling": 7,
+        "finishing": 8,
+        "firsttouch": 11,
+        "freekick": 5,
+        "heading": 16,
+        "longshots": 8,
+        "longthrows": 10,
+        "marking": 15,
+        "passing": 12,
+        "penalty": 8,
+        "tackling": 16
+      },
+      "mental": {
+        "aggression": 6,
+        "anticipation": 13,
+        "bravery": 15,
+        "composure": 12,
+        "concentration": 14,
+        "decisions": 13,
+        "determination": 12,
+        "flair": 7,
+        "leadership": 14,
+        "offtheball": 6,
+        "positioning": 14,
+        "teamwork": 15,
+        "vision": 10,
+        "workrate": 13
+      },
+      "physical": {
+        "aggression": 5,
+        "anticipation": 7,
+        "bravery": 7,
+        "composure": 8,
+        "concentration": 11,
+        "decisions": 5,
+        "determination": 16,
+        "flair": 8
+      }
+    }
+  },
+  {
+    "id": 735216,
+    "name": "Cristiano Ronaldo",
+    "team": "Man Utd",
+    "country": "Portugal",
+    "info": {
+      "age": 37,
+      "position": "AMR, AML, ST",
+      "foot": "Right",
+      "height": 187,
+      "weight": 84
+    },
+    "rating": { "ability": 91, "potential": 98 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 12,
+        "crossing": 14,
+        "dribbling": 14,
+        "finishing": 19,
+        "firsttouch": 17,
+        "freekick": 11,
+        "heading": 19,
+        "longshots": 15,
+        "longthrows": 3,
+        "marking": 1,
+        "passing": 13,
+        "penalty": 19,
+        "tackling": 2
+      },
+      "mental": {
+        "aggression": 6,
+        "anticipation": 19,
+        "bravery": 10,
+        "composure": 15,
+        "concentration": 14,
+        "decisions": 16,
+        "determination": 20,
+        "flair": 17,
+        "leadership": 19,
+        "offtheball": 18,
+        "positioning": 2,
+        "teamwork": 7,
+        "vision": 14,
+        "workrate": 7
+      },
+      "physical": {
+        "aggression": 12,
+        "anticipation": 14,
+        "bravery": 14,
+        "composure": 19,
+        "concentration": 17,
+        "decisions": 11,
+        "determination": 19,
+        "flair": 15
+      }
+    }
+  },
+  {
+    "id": 18004457,
+    "name": "Kevin De Bruyne",
+    "team": "Manchester City",
+    "country": "Belgium",
+    "info": {
+      "age": 30,
+      "position": "MC, MR, ML, AMC",
+      "foot": "Right",
+      "height": 181,
+      "weight": 68
+    },
+    "rating": { "ability": 94, "potential": 94 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 15,
+        "crossing": 19,
+        "dribbling": 15,
+        "finishing": 16,
+        "firsttouch": 16,
+        "freekick": 17,
+        "heading": 6,
+        "longshots": 16,
+        "longthrows": 8,
+        "marking": 7,
+        "passing": 18,
+        "penalty": 16,
+        "tackling": 9
+      },
+      "mental": {
+        "aggression": 12,
+        "anticipation": 13,
+        "bravery": 12,
+        "composure": 15,
+        "concentration": 15,
+        "decisions": 18,
+        "determination": 15,
+        "flair": 16,
+        "leadership": 12,
+        "offtheball": 15,
+        "positioning": 9,
+        "teamwork": 14,
+        "vision": 20,
+        "workrate": 15
+      },
+      "physical": {
+        "aggression": 15,
+        "anticipation": 19,
+        "bravery": 15,
+        "composure": 16,
+        "concentration": 16,
+        "decisions": 17,
+        "determination": 6,
+        "flair": 16
+      }
+    }
+  },
+  {
+    "id": 92039023,
+    "name": "Joshua Kimmich",
+    "team": "Bayern München",
+    "country": "Germany",
+    "info": {
+      "age": 27,
+      "position": "DR, DM, WBR, MC",
+      "foot": "Right",
+      "height": 177,
+      "weight": 75
+    },
+    "rating": { "ability": 89, "potential": 92 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 15,
+        "crossing": 18,
+        "dribbling": 12,
+        "finishing": 11,
+        "firsttouch": 14,
+        "freekick": 12,
+        "heading": 11,
+        "longshots": 14,
+        "longthrows": 7,
+        "marking": 13,
+        "passing": 17,
+        "penalty": 8,
+        "tackling": 13
+      },
+      "mental": {
+        "aggression": 16,
+        "anticipation": 17,
+        "bravery": 15,
+        "composure": 15,
+        "concentration": 15,
+        "decisions": 17,
+        "determination": 20,
+        "flair": 13,
+        "leadership": 16,
+        "offtheball": 12,
+        "positioning": 14,
+        "teamwork": 18,
+        "vision": 17,
+        "workrate": 20
+      },
+      "physical": {
+        "aggression": 15,
+        "anticipation": 18,
+        "bravery": 12,
+        "composure": 11,
+        "concentration": 14,
+        "decisions": 12,
+        "determination": 11,
+        "flair": 14
+      }
+    }
+  },
+  {
+    "id": 92020288,
+    "name": "Heung-Min Son",
+    "team": "Tottenham",
+    "country": "South Korea",
+    "info": {
+      "age": 29,
+      "position": "MR, ML, AMR, AML, ST",
+      "foot": "Both",
+      "height": 183,
+      "weight": 77
+    },
+    "rating": { "ability": 86, "potential": 86 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 13,
+        "crossing": 13,
+        "dribbling": 15,
+        "finishing": 18,
+        "firsttouch": 13,
+        "freekick": 10,
+        "heading": 10,
+        "longshots": 16,
+        "longthrows": 6,
+        "marking": 5,
+        "passing": 12,
+        "penalty": 9,
+        "tackling": 6
+      },
+      "mental": {
+        "aggression": 8,
+        "anticipation": 16,
+        "bravery": 6,
+        "composure": 17,
+        "concentration": 11,
+        "decisions": 13,
+        "determination": 13,
+        "flair": 13,
+        "leadership": 13,
+        "offtheball": 18,
+        "positioning": 7,
+        "teamwork": 15,
+        "vision": 12,
+        "workrate": 17
+      },
+      "physical": {
+        "aggression": 13,
+        "anticipation": 13,
+        "bravery": 15,
+        "composure": 18,
+        "concentration": 13,
+        "decisions": 10,
+        "determination": 10,
+        "flair": 16
+      }
+    }
+  },
+  {
+    "id": 85031826,
+    "name": "Rachid Ghezzal",
+    "team": "Beşiktaş",
+    "country": "Algeria",
+    "info": {
+      "age": 30,
+      "position": "MC, MR, AMR, AMC",
+      "foot": "Left",
+      "height": 182,
+      "weight": 65
+    },
+    "rating": { "ability": 70, "potential": 70 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 15,
+        "crossing": 14,
+        "dribbling": 14,
+        "finishing": 12,
+        "firsttouch": 16,
+        "freekick": 14,
+        "heading": 7,
+        "longshots": 13,
+        "longthrows": 4,
+        "marking": 4,
+        "passing": 16,
+        "penalty": 13,
+        "tackling": 8
+      },
+      "mental": {
+        "aggression": 13,
+        "anticipation": 14,
+        "bravery": 11,
+        "composure": 14,
+        "concentration": 13,
+        "decisions": 16,
+        "determination": 12,
+        "flair": 16,
+        "leadership": 8,
+        "offtheball": 13,
+        "positioning": 9,
+        "teamwork": 14,
+        "vision": 17,
+        "workrate": 13
+      },
+      "physical": {
+        "aggression": 15,
+        "anticipation": 14,
+        "bravery": 14,
+        "composure": 12,
+        "concentration": 16,
+        "decisions": 14,
+        "determination": 7,
+        "flair": 13
+      }
+    }
+  },
+  {
+    "id": 85046988,
+    "name": "Morgan Sanson",
+    "team": "Aston Villa",
+    "country": "France",
+    "info": {
+      "age": 27,
+      "position": "MC, AMC",
+      "foot": "Right",
+      "height": 180,
+      "weight": 73
+    },
+    "rating": { "ability": 70, "potential": 73 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 12,
+        "crossing": 13,
+        "dribbling": 14,
+        "finishing": 11,
+        "firsttouch": 15,
+        "freekick": 13,
+        "heading": 8,
+        "longshots": 14,
+        "longthrows": 5,
+        "marking": 8,
+        "passing": 16,
+        "penalty": 10,
+        "tackling": 11
+      },
+      "mental": {
+        "aggression": 12,
+        "anticipation": 14,
+        "bravery": 12,
+        "composure": 14,
+        "concentration": 12,
+        "decisions": 14,
+        "determination": 14,
+        "flair": 14,
+        "leadership": 10,
+        "offtheball": 13,
+        "positioning": 10,
+        "teamwork": 16,
+        "vision": 15,
+        "workrate": 15
+      },
+      "physical": {
+        "aggression": 12,
+        "anticipation": 13,
+        "bravery": 14,
+        "composure": 11,
+        "concentration": 15,
+        "decisions": 13,
+        "determination": 8,
+        "flair": 14
+      }
+    }
+  },
+  {
+    "id": 91104807,
+    "name": "Leon Goretzka",
+    "team": "Bayern München",
+    "country": "Germany",
+    "info": {
+      "age": 27,
+      "position": "DM, MC, AMC",
+      "foot": "Right",
+      "height": 189,
+      "weight": 82
+    },
+    "rating": { "ability": 83, "potential": 85 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 5,
+        "crossing": 11,
+        "dribbling": 12,
+        "finishing": 14,
+        "firsttouch": 14,
+        "freekick": 6,
+        "heading": 14,
+        "longshots": 15,
+        "longthrows": 6,
+        "marking": 12,
+        "passing": 15,
+        "penalty": 9,
+        "tackling": 15
+      },
+      "mental": {
+        "aggression": 16,
+        "anticipation": 16,
+        "bravery": 16,
+        "composure": 16,
+        "concentration": 15,
+        "decisions": 15,
+        "determination": 18,
+        "flair": 12,
+        "leadership": 15,
+        "offtheball": 18,
+        "positioning": 13,
+        "teamwork": 17,
+        "vision": 15,
+        "workrate": 18
+      },
+      "physical": {
+        "aggression": 5,
+        "anticipation": 11,
+        "bravery": 12,
+        "composure": 14,
+        "concentration": 14,
+        "decisions": 6,
+        "determination": 14,
+        "flair": 15
+      }
+    }
+  },
+  {
+    "id": 14044150,
+    "name": "Paulo Dybala",
+    "team": "Juventus",
+    "country": "Argentina",
+    "info": {
+      "age": 28,
+      "position": "AMR, AMC, ST",
+      "foot": "Left",
+      "height": 177,
+      "weight": 79
+    },
+    "rating": { "ability": 83, "potential": 89 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 16,
+        "crossing": 15,
+        "dribbling": 18,
+        "finishing": 15,
+        "firsttouch": 19,
+        "freekick": 17,
+        "heading": 13,
+        "longshots": 18,
+        "longthrows": 4,
+        "marking": 4,
+        "passing": 17,
+        "penalty": 16,
+        "tackling": 4
+      },
+      "mental": {
+        "aggression": 9,
+        "anticipation": 16,
+        "bravery": 10,
+        "composure": 13,
+        "concentration": 9,
+        "decisions": 14,
+        "determination": 13,
+        "flair": 17,
+        "leadership": 13,
+        "offtheball": 15,
+        "positioning": 5,
+        "teamwork": 14,
+        "vision": 17,
+        "workrate": 14
+      },
+      "physical": {
+        "aggression": 16,
+        "anticipation": 15,
+        "bravery": 18,
+        "composure": 15,
+        "concentration": 19,
+        "decisions": 17,
+        "determination": 13,
+        "flair": 18
+      }
+    }
+  },
+  {
+    "id": 14000828,
+    "name": "Gabriel Arias",
+    "team": "Racing Club",
+    "country": "Chile",
+    "info": {
+      "age": 34,
+      "position": "GK",
+      "foot": "Right",
+      "height": 187,
+      "weight": 91
+    },
+    "rating": { "ability": 70, "potential": 73 },
+    "attributes": {
+      "goalkeeping": {
+        "aerialreach": 13,
+        "commandofarea": 14,
+        "communication": 14,
+        "eccentricity": 8,
+        "firsttouch": 8,
+        "handling": 14,
+        "kicking": 12,
+        "oneonones": 17,
+        "passing": 10,
+        "punching": 12,
+        "reflexes": 16,
+        "rushingout": 12
+      },
+      "technical": { "freekick": 9, "penalty": 3, "technique": 11 },
+      "mental": {
+        "aggression": 12,
+        "anticipation": 13,
+        "bravery": 13,
+        "composure": 14,
+        "concentration": 14,
+        "decisions": 13,
+        "determination": 11,
+        "flair": 10,
+        "leadership": 13,
+        "offtheball": 10,
+        "positioning": 14,
+        "teamwork": 12,
+        "vision": 11,
+        "workrate": 12
+      },
+      "physical": {
+        "aggression": 13,
+        "anticipation": 14,
+        "bravery": 14,
+        "composure": 8,
+        "concentration": 8,
+        "decisions": 14,
+        "determination": 12,
+        "flair": 17
+      }
+    }
+  },
+  {
+    "id": 43044387,
+    "name": "Roberto Soriano",
+    "team": "Bologna",
+    "country": "Italy",
+    "info": {
+      "age": 31,
+      "position": "MC, AMC",
+      "foot": "Right",
+      "height": 182,
+      "weight": 76
+    },
+    "rating": { "ability": 72, "potential": 77 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 8,
+        "crossing": 11,
+        "dribbling": 14,
+        "finishing": 13,
+        "firsttouch": 16,
+        "freekick": 9,
+        "heading": 8,
+        "longshots": 14,
+        "longthrows": 3,
+        "marking": 8,
+        "passing": 15,
+        "penalty": 9,
+        "tackling": 9
+      },
+      "mental": {
+        "aggression": 12,
+        "anticipation": 15,
+        "bravery": 13,
+        "composure": 12,
+        "concentration": 14,
+        "decisions": 14,
+        "determination": 13,
+        "flair": 15,
+        "leadership": 11,
+        "offtheball": 14,
+        "positioning": 12,
+        "teamwork": 16,
+        "vision": 16,
+        "workrate": 16
+      },
+      "physical": {
+        "aggression": 8,
+        "anticipation": 11,
+        "bravery": 14,
+        "composure": 13,
+        "concentration": 16,
+        "decisions": 9,
+        "determination": 8,
+        "flair": 14
+      }
+    }
+  },
+  {
+    "id": 43016849,
+    "name": "Francesco Caputo",
+    "team": "Sampdoria",
+    "country": "Italy",
+    "info": {
+      "age": 34,
+      "position": "ST",
+      "foot": "Right",
+      "height": 181,
+      "weight": 74
+    },
+    "rating": { "ability": 72, "potential": 74 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 5,
+        "crossing": 10,
+        "dribbling": 12,
+        "finishing": 16,
+        "firsttouch": 14,
+        "freekick": 6,
+        "heading": 12,
+        "longshots": 8,
+        "longthrows": 3,
+        "marking": 3,
+        "passing": 14,
+        "penalty": 14,
+        "tackling": 8
+      },
+      "mental": {
+        "aggression": 9,
+        "anticipation": 17,
+        "bravery": 12,
+        "composure": 15,
+        "concentration": 12,
+        "decisions": 16,
+        "determination": 17,
+        "flair": 12,
+        "leadership": 15,
+        "offtheball": 17,
+        "positioning": 3,
+        "teamwork": 18,
+        "vision": 15,
+        "workrate": 15
+      },
+      "physical": {
+        "aggression": 5,
+        "anticipation": 10,
+        "bravery": 12,
+        "composure": 16,
+        "concentration": 14,
+        "decisions": 6,
+        "determination": 12,
+        "flair": 8
+      }
+    }
+  },
+  {
+    "id": 91138280,
+    "name": "Leroy Sané",
+    "team": "Bayern München",
+    "country": "Germany",
+    "info": {
+      "age": 26,
+      "position": "MR, ML, AMR, AML, AMC",
+      "foot": "Left",
+      "height": 183,
+      "weight": 80
+    },
+    "rating": { "ability": 84, "potential": 88 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 13,
+        "crossing": 16,
+        "dribbling": 18,
+        "finishing": 14,
+        "firsttouch": 14,
+        "freekick": 16,
+        "heading": 7,
+        "longshots": 15,
+        "longthrows": 4,
+        "marking": 6,
+        "passing": 14,
+        "penalty": 8,
+        "tackling": 7
+      },
+      "mental": {
+        "aggression": 12,
+        "anticipation": 13,
+        "bravery": 9,
+        "composure": 14,
+        "concentration": 12,
+        "decisions": 14,
+        "determination": 12,
+        "flair": 16,
+        "leadership": 5,
+        "offtheball": 15,
+        "positioning": 8,
+        "teamwork": 13,
+        "vision": 15,
+        "workrate": 12
+      },
+      "physical": {
+        "aggression": 13,
+        "anticipation": 16,
+        "bravery": 18,
+        "composure": 14,
+        "concentration": 14,
+        "decisions": 16,
+        "determination": 7,
+        "flair": 15
+      }
+    }
+  },
+  {
+    "id": 98029336,
+    "name": "Kevin Mbabu",
+    "team": "VfL Wolfsburg",
+    "country": "Switzerland",
+    "info": {
+      "age": 27,
+      "position": "DR, WBR",
+      "foot": "Right",
+      "height": 184,
+      "weight": 80
+    },
+    "rating": { "ability": 70, "potential": 73 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 5,
+        "crossing": 13,
+        "dribbling": 14,
+        "finishing": 7,
+        "firsttouch": 11,
+        "freekick": 5,
+        "heading": 11,
+        "longshots": 7,
+        "longthrows": 18,
+        "marking": 11,
+        "passing": 12,
+        "penalty": 6,
+        "tackling": 15
+      },
+      "mental": {
+        "aggression": 16,
+        "anticipation": 12,
+        "bravery": 15,
+        "composure": 11,
+        "concentration": 12,
+        "decisions": 11,
+        "determination": 16,
+        "flair": 11,
+        "leadership": 7,
+        "offtheball": 12,
+        "positioning": 11,
+        "teamwork": 14,
+        "vision": 12,
+        "workrate": 15
+      },
+      "physical": {
+        "aggression": 5,
+        "anticipation": 13,
+        "bravery": 14,
+        "composure": 7,
+        "concentration": 11,
+        "decisions": 5,
+        "determination": 11,
+        "flair": 7
+      }
+    }
+  },
+  {
+    "id": 48036880,
+    "name": "Odsonne Edouard",
+    "team": "Crystal Palace",
+    "country": "France",
+    "info": {
+      "age": 24,
+      "position": "ST",
+      "foot": "Right",
+      "height": 187,
+      "weight": 83
+    },
+    "rating": { "ability": 72, "potential": 79 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 6,
+        "crossing": 8,
+        "dribbling": 15,
+        "finishing": 16,
+        "firsttouch": 15,
+        "freekick": 13,
+        "heading": 12,
+        "longshots": 13,
+        "longthrows": 4,
+        "marking": 5,
+        "passing": 12,
+        "penalty": 17,
+        "tackling": 7
+      },
+      "mental": {
+        "aggression": 9,
+        "anticipation": 14,
+        "bravery": 12,
+        "composure": 16,
+        "concentration": 12,
+        "decisions": 14,
+        "determination": 13,
+        "flair": 12,
+        "leadership": 6,
+        "offtheball": 15,
+        "positioning": 6,
+        "teamwork": 10,
+        "vision": 12,
+        "workrate": 11
+      },
+      "physical": {
+        "aggression": 6,
+        "anticipation": 8,
+        "bravery": 15,
+        "composure": 16,
+        "concentration": 15,
+        "decisions": 13,
+        "determination": 12,
+        "flair": 13
+      }
+    }
+  },
+  {
+    "id": 70052965,
+    "name": "Cihan Topaloglu",
+    "team": "Altay SK",
+    "country": "Turkey",
+    "info": {
+      "age": 30,
+      "position": "GK",
+      "foot": "Left",
+      "height": 183,
+      "weight": 76
+    },
+    "rating": { "ability": 50, "potential": 53 },
+    "attributes": {
+      "goalkeeping": {
+        "aerialreach": 10,
+        "commandofarea": 10,
+        "communication": 13,
+        "eccentricity": 5,
+        "firsttouch": 6,
+        "handling": 12,
+        "kicking": 11,
+        "oneonones": 11,
+        "passing": 10,
+        "punching": 6,
+        "reflexes": 12,
+        "rushingout": 6
+      },
+      "technical": { "freekick": 7, "penalty": 2, "technique": 11 },
+      "mental": {
+        "aggression": 8,
+        "anticipation": 11,
+        "bravery": 12,
+        "composure": 8,
+        "concentration": 12,
+        "decisions": 12,
+        "determination": 12,
+        "flair": 1,
+        "leadership": 8,
+        "offtheball": 3,
+        "positioning": 11,
+        "teamwork": 11,
+        "vision": 10,
+        "workrate": 10
+      },
+      "physical": {
+        "aggression": 10,
+        "anticipation": 10,
+        "bravery": 13,
+        "composure": 5,
+        "concentration": 6,
+        "decisions": 12,
+        "determination": 11,
+        "flair": 11
+      }
+    }
+  },
+  {
+    "id": 19016523,
+    "name": "Luiz Gustavo",
+    "team": "Fenerbahçe",
+    "country": "Brazil",
+    "info": {
+      "age": 34,
+      "position": "DM, MC",
+      "foot": "Left",
+      "height": 187,
+      "weight": 78
+    },
+    "rating": { "ability": 68, "potential": 78 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 5,
+        "crossing": 10,
+        "dribbling": 10,
+        "finishing": 5,
+        "firsttouch": 12,
+        "freekick": 6,
+        "heading": 12,
+        "longshots": 13,
+        "longthrows": 5,
+        "marking": 14,
+        "passing": 14,
+        "penalty": 8,
+        "tackling": 16
+      },
+      "mental": {
+        "aggression": 15,
+        "anticipation": 15,
+        "bravery": 17,
+        "composure": 15,
+        "concentration": 15,
+        "decisions": 15,
+        "determination": 18,
+        "flair": 7,
+        "leadership": 15,
+        "offtheball": 12,
+        "positioning": 14,
+        "teamwork": 15,
+        "vision": 10,
+        "workrate": 12
+      },
+      "physical": {
+        "aggression": 5,
+        "anticipation": 10,
+        "bravery": 10,
+        "composure": 5,
+        "concentration": 12,
+        "decisions": 6,
+        "determination": 12,
+        "flair": 13
+      }
+    }
+  },
+  {
+    "id": 19159362,
+    "name": "Fred",
+    "team": "Man Utd",
+    "country": "Brazil",
+    "info": {
+      "age": 29,
+      "position": "DM, MC",
+      "foot": "Left",
+      "height": 169,
+      "weight": 64
+    },
+    "rating": { "ability": 70, "potential": 75 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 8,
+        "crossing": 10,
+        "dribbling": 13,
+        "finishing": 9,
+        "firsttouch": 13,
+        "freekick": 8,
+        "heading": 8,
+        "longshots": 7,
+        "longthrows": 6,
+        "marking": 13,
+        "passing": 14,
+        "penalty": 9,
+        "tackling": 14
+      },
+      "mental": {
+        "aggression": 15,
+        "anticipation": 15,
+        "bravery": 14,
+        "composure": 10,
+        "concentration": 10,
+        "decisions": 12,
+        "determination": 14,
+        "flair": 12,
+        "leadership": 8,
+        "offtheball": 10,
+        "positioning": 13,
+        "teamwork": 17,
+        "vision": 11,
+        "workrate": 18
+      },
+      "physical": {
+        "aggression": 8,
+        "anticipation": 10,
+        "bravery": 13,
+        "composure": 9,
+        "concentration": 13,
+        "decisions": 8,
+        "determination": 8,
+        "flair": 7
+      }
+    }
+  },
+  {
+    "id": 16170434,
+    "name": "Mërgim Berisha",
+    "team": "Fenerbahçe",
+    "country": "Germany",
+    "info": {
+      "age": 24,
+      "position": "AMC, ST",
+      "foot": "Right",
+      "height": 186,
+      "weight": 79
+    },
+    "rating": { "ability": 63, "potential": 70 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 9,
+        "crossing": 9,
+        "dribbling": 12,
+        "finishing": 13,
+        "firsttouch": 13,
+        "freekick": 11,
+        "heading": 11,
+        "longshots": 12,
+        "longthrows": 4,
+        "marking": 7,
+        "passing": 11,
+        "penalty": 11,
+        "tackling": 5
+      },
+      "mental": {
+        "aggression": 9,
+        "anticipation": 11,
+        "bravery": 13,
+        "composure": 14,
+        "concentration": 11,
+        "decisions": 12,
+        "determination": 13,
+        "flair": 15,
+        "leadership": 8,
+        "offtheball": 15,
+        "positioning": 7,
+        "teamwork": 12,
+        "vision": 13,
+        "workrate": 12
+      },
+      "physical": {
+        "aggression": 9,
+        "anticipation": 9,
+        "bravery": 12,
+        "composure": 13,
+        "concentration": 13,
+        "decisions": 11,
+        "determination": 11,
+        "flair": 12
+      }
+    }
+  },
+  {
+    "id": 83111501,
+    "name": "Thierry Rendall Correia",
+    "team": "Valencia",
+    "country": "Portugal",
+    "info": {
+      "age": 23,
+      "position": "DR, DL, WBR",
+      "foot": "Right",
+      "height": 179,
+      "weight": 72
+    },
+    "rating": { "ability": 70, "potential": 79 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 8,
+        "crossing": 12,
+        "dribbling": 12,
+        "finishing": 6,
+        "firsttouch": 12,
+        "freekick": 5,
+        "heading": 8,
+        "longshots": 8,
+        "longthrows": 12,
+        "marking": 10,
+        "passing": 11,
+        "penalty": 10,
+        "tackling": 11
+      },
+      "mental": {
+        "aggression": 13,
+        "anticipation": 13,
+        "bravery": 13,
+        "composure": 12,
+        "concentration": 12,
+        "decisions": 11,
+        "determination": 13,
+        "flair": 14,
+        "leadership": 7,
+        "offtheball": 12,
+        "positioning": 10,
+        "teamwork": 12,
+        "vision": 11,
+        "workrate": 14
+      },
+      "physical": {
+        "aggression": 8,
+        "anticipation": 12,
+        "bravery": 12,
+        "composure": 6,
+        "concentration": 12,
+        "decisions": 5,
+        "determination": 8,
+        "flair": 8
+      }
+    }
+  },
+  {
+    "id": 22000141,
+    "name": "Strahil Popov",
+    "team": "Hatayspor",
+    "country": "Bulgaria",
+    "info": {
+      "age": 31,
+      "position": "DR, WBR",
+      "foot": "Right",
+      "height": 185,
+      "weight": 75
+    },
+    "rating": { "ability": 58, "potential": 60 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 9,
+        "crossing": 13,
+        "dribbling": 8,
+        "finishing": 8,
+        "firsttouch": 12,
+        "freekick": 10,
+        "heading": 12,
+        "longshots": 9,
+        "longthrows": 14,
+        "marking": 12,
+        "passing": 12,
+        "penalty": 10,
+        "tackling": 11
+      },
+      "mental": {
+        "aggression": 12,
+        "anticipation": 12,
+        "bravery": 14,
+        "composure": 12,
+        "concentration": 10,
+        "decisions": 13,
+        "determination": 15,
+        "flair": 6,
+        "leadership": 13,
+        "offtheball": 12,
+        "positioning": 12,
+        "teamwork": 14,
+        "vision": 12,
+        "workrate": 14
+      },
+      "physical": {
+        "aggression": 9,
+        "anticipation": 13,
+        "bravery": 8,
+        "composure": 8,
+        "concentration": 12,
+        "decisions": 10,
+        "determination": 12,
+        "flair": 9
+      }
+    }
+  },
+  {
+    "id": 70131661,
+    "name": "Efe Tatli",
+    "team": "Fatih Karagümrük",
+    "country": "Turkey",
+    "info": {
+      "age": 19,
+      "position": "DM, MC",
+      "foot": "Left",
+      "height": 180,
+      "weight": 72
+    },
+    "rating": { "ability": 50, "potential": 0 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 10,
+        "crossing": 6,
+        "dribbling": 10,
+        "finishing": 8,
+        "firsttouch": 12,
+        "freekick": 10,
+        "heading": 6,
+        "longshots": 8,
+        "longthrows": 7,
+        "marking": 9,
+        "passing": 14,
+        "penalty": 3,
+        "tackling": 11
+      },
+      "mental": {
+        "aggression": 7,
+        "anticipation": 10,
+        "bravery": 10,
+        "composure": 12,
+        "concentration": 11,
+        "decisions": 11,
+        "determination": 11,
+        "flair": 8,
+        "leadership": 6,
+        "offtheball": 10,
+        "positioning": 10,
+        "teamwork": 12,
+        "vision": 11,
+        "workrate": 13
+      },
+      "physical": {
+        "aggression": 10,
+        "anticipation": 6,
+        "bravery": 10,
+        "composure": 8,
+        "concentration": 12,
+        "decisions": 10,
+        "determination": 6,
+        "flair": 8
+      }
+    }
+  },
+  {
+    "id": 8190721,
+    "name": "Nabil Dirar",
+    "team": "Kasımpaşa",
+    "country": "Morocco",
+    "info": {
+      "age": 36,
+      "position": "DR, DL, WBR, MR",
+      "foot": "Right",
+      "height": 187,
+      "weight": 82
+    },
+    "rating": { "ability": 58, "potential": 69 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 12,
+        "crossing": 14,
+        "dribbling": 12,
+        "finishing": 10,
+        "firsttouch": 13,
+        "freekick": 12,
+        "heading": 9,
+        "longshots": 12,
+        "longthrows": 7,
+        "marking": 10,
+        "passing": 13,
+        "penalty": 12,
+        "tackling": 9
+      },
+      "mental": {
+        "aggression": 15,
+        "anticipation": 10,
+        "bravery": 16,
+        "composure": 12,
+        "concentration": 12,
+        "decisions": 9,
+        "determination": 16,
+        "flair": 10,
+        "leadership": 13,
+        "offtheball": 12,
+        "positioning": 10,
+        "teamwork": 17,
+        "vision": 10,
+        "workrate": 15
+      },
+      "physical": {
+        "aggression": 12,
+        "anticipation": 14,
+        "bravery": 12,
+        "composure": 10,
+        "concentration": 13,
+        "decisions": 12,
+        "determination": 9,
+        "flair": 12
+      }
+    }
+  },
+  {
+    "id": 16202373,
+    "name": "Dominik Szoboszlai",
+    "team": "RB Leipzig",
+    "country": "Hungary",
+    "info": {
+      "age": 21,
+      "position": "MC, ML, AML, AMC",
+      "foot": "Right",
+      "height": 186,
+      "weight": 74
+    },
+    "rating": { "ability": 72, "potential": 0 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 16,
+        "crossing": 13,
+        "dribbling": 13,
+        "finishing": 12,
+        "firsttouch": 14,
+        "freekick": 16,
+        "heading": 9,
+        "longshots": 15,
+        "longthrows": 5,
+        "marking": 8,
+        "passing": 14,
+        "penalty": 16,
+        "tackling": 9
+      },
+      "mental": {
+        "aggression": 8,
+        "anticipation": 13,
+        "bravery": 12,
+        "composure": 12,
+        "concentration": 12,
+        "decisions": 13,
+        "determination": 15,
+        "flair": 16,
+        "leadership": 9,
+        "offtheball": 14,
+        "positioning": 9,
+        "teamwork": 14,
+        "vision": 14,
+        "workrate": 14
+      },
+      "physical": {
+        "aggression": 16,
+        "anticipation": 13,
+        "bravery": 13,
+        "composure": 12,
+        "concentration": 14,
+        "decisions": 16,
+        "determination": 9,
+        "flair": 15
+      }
+    }
+  },
+  {
+    "id": 79027217,
+    "name": "Omar Alderete",
+    "team": "Valencia",
+    "country": "Paraguay",
+    "info": {
+      "age": 25,
+      "position": "DC",
+      "foot": "Left",
+      "height": 188,
+      "weight": 92
+    },
+    "rating": { "ability": 70, "potential": 75 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 3,
+        "crossing": 8,
+        "dribbling": 10,
+        "finishing": 6,
+        "firsttouch": 12,
+        "freekick": 6,
+        "heading": 16,
+        "longshots": 4,
+        "longthrows": 12,
+        "marking": 15,
+        "passing": 13,
+        "penalty": 12,
+        "tackling": 16
+      },
+      "mental": {
+        "aggression": 16,
+        "anticipation": 13,
+        "bravery": 18,
+        "composure": 13,
+        "concentration": 14,
+        "decisions": 13,
+        "determination": 14,
+        "flair": 6,
+        "leadership": 8,
+        "offtheball": 10,
+        "positioning": 15,
+        "teamwork": 13,
+        "vision": 8,
+        "workrate": 13
+      },
+      "physical": {
+        "aggression": 3,
+        "anticipation": 8,
+        "bravery": 10,
+        "composure": 6,
+        "concentration": 12,
+        "decisions": 6,
+        "determination": 16,
+        "flair": 4
+      }
+    }
+  },
+  {
+    "id": 70117584,
+    "name": "Yalçin Kayan",
+    "team": "Göztepe SK",
+    "country": "Turkey",
+    "info": {
+      "age": 23,
+      "position": "MC",
+      "foot": "Left",
+      "height": 180,
+      "weight": 0
+    },
+    "rating": { "ability": 50, "potential": 0 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 8,
+        "crossing": 11,
+        "dribbling": 12,
+        "finishing": 9,
+        "firsttouch": 12,
+        "freekick": 7,
+        "heading": 8,
+        "longshots": 10,
+        "longthrows": 7,
+        "marking": 8,
+        "passing": 13,
+        "penalty": 5,
+        "tackling": 12
+      },
+      "mental": {
+        "aggression": 12,
+        "anticipation": 12,
+        "bravery": 13,
+        "composure": 11,
+        "concentration": 12,
+        "decisions": 12,
+        "determination": 11,
+        "flair": 13,
+        "leadership": 7,
+        "offtheball": 11,
+        "positioning": 11,
+        "teamwork": 12,
+        "vision": 12,
+        "workrate": 14
+      },
+      "physical": {
+        "aggression": 8,
+        "anticipation": 11,
+        "bravery": 12,
+        "composure": 9,
+        "concentration": 12,
+        "decisions": 7,
+        "determination": 8,
+        "flair": 10
+      }
+    }
+  },
+  {
+    "id": 85027976,
+    "name": "Alphonse Areola",
+    "team": "West Ham",
+    "country": "France",
+    "info": {
+      "age": 29,
+      "position": "GK",
+      "foot": "Right",
+      "height": 195,
+      "weight": 94
+    },
+    "rating": { "ability": 72, "potential": 77 },
+    "attributes": {
+      "goalkeeping": {
+        "aerialreach": 14,
+        "commandofarea": 12,
+        "communication": 13,
+        "eccentricity": 8,
+        "firsttouch": 10,
+        "handling": 14,
+        "kicking": 14,
+        "oneonones": 14,
+        "passing": 10,
+        "punching": 12,
+        "reflexes": 15,
+        "rushingout": 12
+      },
+      "technical": { "freekick": 6, "penalty": 1, "technique": 10 },
+      "mental": {
+        "aggression": 8,
+        "anticipation": 14,
+        "bravery": 13,
+        "composure": 15,
+        "concentration": 14,
+        "decisions": 12,
+        "determination": 14,
+        "flair": 8,
+        "leadership": 10,
+        "offtheball": 8,
+        "positioning": 14,
+        "teamwork": 15,
+        "vision": 9,
+        "workrate": 13
+      },
+      "physical": {
+        "aggression": 14,
+        "anticipation": 12,
+        "bravery": 13,
+        "composure": 8,
+        "concentration": 10,
+        "decisions": 14,
+        "determination": 14,
+        "flair": 14
+      }
+    }
+  },
+  {
+    "id": 29125334,
+    "name": "Dean Henderson",
+    "team": "Man Utd",
+    "country": "England",
+    "info": {
+      "age": 25,
+      "position": "GK",
+      "foot": "Right",
+      "height": 188,
+      "weight": 85
+    },
+    "rating": { "ability": 72, "potential": 80 },
+    "attributes": {
+      "goalkeeping": {
+        "aerialreach": 13,
+        "commandofarea": 14,
+        "communication": 15,
+        "eccentricity": 13,
+        "firsttouch": 12,
+        "handling": 13,
+        "kicking": 14,
+        "oneonones": 15,
+        "passing": 13,
+        "punching": 14,
+        "reflexes": 15,
+        "rushingout": 10
+      },
+      "technical": { "freekick": 7, "penalty": 3, "technique": 11 },
+      "mental": {
+        "aggression": 15,
+        "anticipation": 14,
+        "bravery": 14,
+        "composure": 13,
+        "concentration": 13,
+        "decisions": 13,
+        "determination": 16,
+        "flair": 13,
+        "leadership": 12,
+        "offtheball": 13,
+        "positioning": 12,
+        "teamwork": 13,
+        "vision": 8,
+        "workrate": 13
+      },
+      "physical": {
+        "aggression": 13,
+        "anticipation": 14,
+        "bravery": 15,
+        "composure": 13,
+        "concentration": 12,
+        "decisions": 13,
+        "determination": 14,
+        "flair": 15
+      }
+    }
+  },
+  {
+    "id": 29141472,
+    "name": "Benjamin White",
+    "team": "Arsenal",
+    "country": "England",
+    "info": {
+      "age": 24,
+      "position": "DC",
+      "foot": "Right",
+      "height": 185,
+      "weight": 78
+    },
+    "rating": { "ability": 72, "potential": 81 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 3,
+        "crossing": 7,
+        "dribbling": 11,
+        "finishing": 5,
+        "firsttouch": 14,
+        "freekick": 4,
+        "heading": 14,
+        "longshots": 6,
+        "longthrows": 7,
+        "marking": 15,
+        "passing": 14,
+        "penalty": 5,
+        "tackling": 15
+      },
+      "mental": {
+        "aggression": 13,
+        "anticipation": 15,
+        "bravery": 15,
+        "composure": 15,
+        "concentration": 14,
+        "decisions": 13,
+        "determination": 14,
+        "flair": 13,
+        "leadership": 10,
+        "offtheball": 12,
+        "positioning": 15,
+        "teamwork": 15,
+        "vision": 13,
+        "workrate": 14
+      },
+      "physical": {
+        "aggression": 3,
+        "anticipation": 7,
+        "bravery": 11,
+        "composure": 5,
+        "concentration": 14,
+        "decisions": 4,
+        "determination": 14,
+        "flair": 6
+      }
+    }
+  },
+  {
+    "id": 29179241,
+    "name": "Erling Haaland",
+    "team": "Borussia Dortmund",
+    "country": "Norway",
+    "info": {
+      "age": 21,
+      "position": "ST",
+      "foot": "Left",
+      "height": 194,
+      "weight": 88
+    },
+    "rating": { "ability": 89, "potential": 95 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 7,
+        "crossing": 9,
+        "dribbling": 14,
+        "finishing": 18,
+        "firsttouch": 16,
+        "freekick": 14,
+        "heading": 14,
+        "longshots": 12,
+        "longthrows": 5,
+        "marking": 6,
+        "passing": 13,
+        "penalty": 17,
+        "tackling": 7
+      },
+      "mental": {
+        "aggression": 13,
+        "anticipation": 16,
+        "bravery": 15,
+        "composure": 17,
+        "concentration": 15,
+        "decisions": 13,
+        "determination": 20,
+        "flair": 16,
+        "leadership": 13,
+        "offtheball": 18,
+        "positioning": 7,
+        "teamwork": 12,
+        "vision": 14,
+        "workrate": 13
+      },
+      "physical": {
+        "aggression": 7,
+        "anticipation": 9,
+        "bravery": 14,
+        "composure": 18,
+        "concentration": 16,
+        "decisions": 14,
+        "determination": 14,
+        "flair": 12
+      }
+    }
+  },
+  {
+    "id": 91002778,
+    "name": "Hasan Ali Kaldirim",
+    "team": "İstanbul Başakşehir",
+    "country": "Turkey",
+    "info": {
+      "age": 32,
+      "position": "DL, WBL",
+      "foot": "Left",
+      "height": 183,
+      "weight": 76
+    },
+    "rating": { "ability": 60, "potential": 63 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 11,
+        "crossing": 12,
+        "dribbling": 9,
+        "finishing": 7,
+        "firsttouch": 12,
+        "freekick": 10,
+        "heading": 11,
+        "longshots": 10,
+        "longthrows": 13,
+        "marking": 13,
+        "passing": 12,
+        "penalty": 8,
+        "tackling": 13
+      },
+      "mental": {
+        "aggression": 10,
+        "anticipation": 12,
+        "bravery": 13,
+        "composure": 13,
+        "concentration": 13,
+        "decisions": 12,
+        "determination": 13,
+        "flair": 7,
+        "leadership": 10,
+        "offtheball": 11,
+        "positioning": 13,
+        "teamwork": 15,
+        "vision": 8,
+        "workrate": 16
+      },
+      "physical": {
+        "aggression": 11,
+        "anticipation": 12,
+        "bravery": 9,
+        "composure": 7,
+        "concentration": 12,
+        "decisions": 10,
+        "determination": 11,
+        "flair": 10
+      }
+    }
+  },
+  {
+    "id": 29036189,
+    "name": "Lewis Dunk",
+    "team": "Brighton",
+    "country": "England",
+    "info": {
+      "age": 30,
+      "position": "DC",
+      "foot": "Right",
+      "height": 191,
+      "weight": 78
+    },
+    "rating": { "ability": 72, "potential": 75 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 5,
+        "crossing": 7,
+        "dribbling": 9,
+        "finishing": 6,
+        "firsttouch": 13,
+        "freekick": 9,
+        "heading": 14,
+        "longshots": 5,
+        "longthrows": 6,
+        "marking": 13,
+        "passing": 14,
+        "penalty": 10,
+        "tackling": 15
+      },
+      "mental": {
+        "aggression": 13,
+        "anticipation": 14,
+        "bravery": 17,
+        "composure": 14,
+        "concentration": 15,
+        "decisions": 15,
+        "determination": 14,
+        "flair": 8,
+        "leadership": 15,
+        "offtheball": 7,
+        "positioning": 14,
+        "teamwork": 14,
+        "vision": 12,
+        "workrate": 14
+      },
+      "physical": {
+        "aggression": 5,
+        "anticipation": 7,
+        "bravery": 9,
+        "composure": 6,
+        "concentration": 13,
+        "decisions": 9,
+        "determination": 14,
+        "flair": 5
+      }
+    }
+  },
+  {
+    "id": 29125343,
+    "name": "Scott McTominay",
+    "team": "Man Utd",
+    "country": "Scotland",
+    "info": {
+      "age": 25,
+      "position": "DC, DM, MC",
+      "foot": "Right",
+      "height": 193,
+      "weight": 88
+    },
+    "rating": { "ability": 72, "potential": 76 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 5,
+        "crossing": 12,
+        "dribbling": 12,
+        "finishing": 12,
+        "firsttouch": 14,
+        "freekick": 5,
+        "heading": 14,
+        "longshots": 10,
+        "longthrows": 11,
+        "marking": 11,
+        "passing": 13,
+        "penalty": 7,
+        "tackling": 16
+      },
+      "mental": {
+        "aggression": 17,
+        "anticipation": 13,
+        "bravery": 16,
+        "composure": 11,
+        "concentration": 13,
+        "decisions": 11,
+        "determination": 18,
+        "flair": 6,
+        "leadership": 13,
+        "offtheball": 14,
+        "positioning": 11,
+        "teamwork": 19,
+        "vision": 9,
+        "workrate": 19
+      },
+      "physical": {
+        "aggression": 5,
+        "anticipation": 12,
+        "bravery": 12,
+        "composure": 12,
+        "concentration": 14,
+        "decisions": 5,
+        "determination": 14,
+        "flair": 10
+      }
+    }
+  },
+  {
+    "id": 8442483,
+    "name": "Blaise Matuidi",
+    "team": "Inter Miami",
+    "country": "France",
+    "info": {
+      "age": 35,
+      "position": "DM, MC, ML",
+      "foot": "Left",
+      "height": 181,
+      "weight": 75
+    },
+    "rating": { "ability": 72, "potential": 82 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 4,
+        "crossing": 11,
+        "dribbling": 10,
+        "finishing": 10,
+        "firsttouch": 12,
+        "freekick": 6,
+        "heading": 12,
+        "longshots": 12,
+        "longthrows": 8,
+        "marking": 15,
+        "passing": 13,
+        "penalty": 9,
+        "tackling": 15
+      },
+      "mental": {
+        "aggression": 16,
+        "anticipation": 15,
+        "bravery": 20,
+        "composure": 15,
+        "concentration": 16,
+        "decisions": 13,
+        "determination": 16,
+        "flair": 8,
+        "leadership": 13,
+        "offtheball": 14,
+        "positioning": 17,
+        "teamwork": 20,
+        "vision": 11,
+        "workrate": 15
+      },
+      "physical": {
+        "aggression": 4,
+        "anticipation": 11,
+        "bravery": 10,
+        "composure": 10,
+        "concentration": 12,
+        "decisions": 6,
+        "determination": 12,
+        "flair": 12
+      }
+    }
+  },
+  {
+    "id": 8150316,
+    "name": "Jan Vertonghen",
+    "team": "SL Benfica",
+    "country": "Belgium",
+    "info": {
+      "age": 35,
+      "position": "DL, DC",
+      "foot": "Left",
+      "height": 189,
+      "weight": 88
+    },
+    "rating": { "ability": 72, "potential": 83 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 7,
+        "crossing": 11,
+        "dribbling": 10,
+        "finishing": 8,
+        "firsttouch": 14,
+        "freekick": 11,
+        "heading": 15,
+        "longshots": 10,
+        "longthrows": 12,
+        "marking": 15,
+        "passing": 14,
+        "penalty": 10,
+        "tackling": 16
+      },
+      "mental": {
+        "aggression": 14,
+        "anticipation": 15,
+        "bravery": 14,
+        "composure": 16,
+        "concentration": 14,
+        "decisions": 15,
+        "determination": 14,
+        "flair": 12,
+        "leadership": 14,
+        "offtheball": 11,
+        "positioning": 16,
+        "teamwork": 15,
+        "vision": 11,
+        "workrate": 11
+      },
+      "physical": {
+        "aggression": 7,
+        "anticipation": 11,
+        "bravery": 10,
+        "composure": 8,
+        "concentration": 14,
+        "decisions": 11,
+        "determination": 15,
+        "flair": 10
+      }
+    }
+  },
+  {
+    "id": 18026122,
+    "name": "Thibaut Courtois",
+    "team": "Real Madrid",
+    "country": "Belgium",
+    "info": {
+      "age": 30,
+      "position": "GK",
+      "foot": "Left",
+      "height": 199,
+      "weight": 96
+    },
+    "rating": { "ability": 88, "potential": 91 },
+    "attributes": {
+      "goalkeeping": {
+        "aerialreach": 20,
+        "commandofarea": 15,
+        "communication": 14,
+        "eccentricity": 5,
+        "firsttouch": 10,
+        "handling": 16,
+        "kicking": 16,
+        "oneonones": 17,
+        "passing": 13,
+        "punching": 6,
+        "reflexes": 18,
+        "rushingout": 10
+      },
+      "technical": { "freekick": 9, "penalty": 2, "technique": 12 },
+      "mental": {
+        "aggression": 8,
+        "anticipation": 15,
+        "bravery": 15,
+        "composure": 12,
+        "concentration": 16,
+        "decisions": 16,
+        "determination": 15,
+        "flair": 14,
+        "leadership": 13,
+        "offtheball": 1,
+        "positioning": 16,
+        "teamwork": 14,
+        "vision": 9,
+        "workrate": 11
+      },
+      "physical": {
+        "aggression": 20,
+        "anticipation": 15,
+        "bravery": 14,
+        "composure": 5,
+        "concentration": 10,
+        "decisions": 16,
+        "determination": 16,
+        "flair": 17
+      }
+    }
+  },
+  {
+    "id": 67157520,
+    "name": "Álex Berenguer",
+    "team": "Athletic Club",
+    "country": "Spain",
+    "info": {
+      "age": 26,
+      "position": "WBL, MR, ML, AMR, AML, AMC",
+      "foot": "Right",
+      "height": 175,
+      "weight": 73
+    },
+    "rating": { "ability": 72, "potential": 73 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 10,
+        "crossing": 12,
+        "dribbling": 15,
+        "finishing": 13,
+        "firsttouch": 13,
+        "freekick": 8,
+        "heading": 6,
+        "longshots": 10,
+        "longthrows": 5,
+        "marking": 8,
+        "passing": 13,
+        "penalty": 8,
+        "tackling": 7
+      },
+      "mental": {
+        "aggression": 9,
+        "anticipation": 11,
+        "bravery": 11,
+        "composure": 12,
+        "concentration": 11,
+        "decisions": 12,
+        "determination": 14,
+        "flair": 14,
+        "leadership": 8,
+        "offtheball": 14,
+        "positioning": 9,
+        "teamwork": 11,
+        "vision": 12,
+        "workrate": 13
+      },
+      "physical": {
+        "aggression": 10,
+        "anticipation": 12,
+        "bravery": 15,
+        "composure": 13,
+        "concentration": 13,
+        "decisions": 8,
+        "determination": 6,
+        "flair": 10
+      }
+    }
+  },
+  {
+    "id": 67192475,
+    "name": "Yeray",
+    "team": "Athletic Club",
+    "country": "Spain",
+    "info": {
+      "age": 27,
+      "position": "DC",
+      "foot": "Right",
+      "height": 182,
+      "weight": 79
+    },
+    "rating": { "ability": 72, "potential": 76 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 7,
+        "crossing": 12,
+        "dribbling": 9,
+        "finishing": 7,
+        "firsttouch": 11,
+        "freekick": 8,
+        "heading": 15,
+        "longshots": 9,
+        "longthrows": 8,
+        "marking": 15,
+        "passing": 13,
+        "penalty": 6,
+        "tackling": 15
+      },
+      "mental": {
+        "aggression": 13,
+        "anticipation": 14,
+        "bravery": 16,
+        "composure": 15,
+        "concentration": 15,
+        "decisions": 14,
+        "determination": 15,
+        "flair": 8,
+        "leadership": 13,
+        "offtheball": 7,
+        "positioning": 15,
+        "teamwork": 15,
+        "vision": 11,
+        "workrate": 15
+      },
+      "physical": {
+        "aggression": 7,
+        "anticipation": 12,
+        "bravery": 9,
+        "composure": 7,
+        "concentration": 11,
+        "decisions": 8,
+        "determination": 15,
+        "flair": 9
+      }
+    }
+  },
+  {
+    "id": 15009268,
+    "name": "Aziz Behich",
+    "team": "Giresunspor",
+    "country": "Australia",
+    "info": {
+      "age": 31,
+      "position": "DL, WBL, ML",
+      "foot": "Left",
+      "height": 170,
+      "weight": 67
+    },
+    "rating": { "ability": 58, "potential": 65 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 11,
+        "crossing": 12,
+        "dribbling": 13,
+        "finishing": 5,
+        "firsttouch": 7,
+        "freekick": 6,
+        "heading": 5,
+        "longshots": 6,
+        "longthrows": 11,
+        "marking": 10,
+        "passing": 12,
+        "penalty": 8,
+        "tackling": 12
+      },
+      "mental": {
+        "aggression": 13,
+        "anticipation": 13,
+        "bravery": 13,
+        "composure": 13,
+        "concentration": 14,
+        "decisions": 12,
+        "determination": 12,
+        "flair": 5,
+        "leadership": 7,
+        "offtheball": 10,
+        "positioning": 11,
+        "teamwork": 13,
+        "vision": 10,
+        "workrate": 14
+      },
+      "physical": {
+        "aggression": 11,
+        "anticipation": 12,
+        "bravery": 13,
+        "composure": 5,
+        "concentration": 7,
+        "decisions": 6,
+        "determination": 5,
+        "flair": 6
+      }
+    }
+  },
+  {
+    "id": 14003924,
+    "name": "Lucas Castro",
+    "team": "Adana Demirspor",
+    "country": "Argentina",
+    "info": {
+      "age": 33,
+      "position": "MC, AMR, AML, AMC",
+      "foot": "Right",
+      "height": 182,
+      "weight": 76
+    },
+    "rating": { "ability": 58, "potential": 69 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 11,
+        "crossing": 12,
+        "dribbling": 11,
+        "finishing": 11,
+        "firsttouch": 13,
+        "freekick": 12,
+        "heading": 12,
+        "longshots": 10,
+        "longthrows": 4,
+        "marking": 8,
+        "passing": 12,
+        "penalty": 8,
+        "tackling": 13
+      },
+      "mental": {
+        "aggression": 15,
+        "anticipation": 13,
+        "bravery": 11,
+        "composure": 11,
+        "concentration": 11,
+        "decisions": 12,
+        "determination": 15,
+        "flair": 16,
+        "leadership": 11,
+        "offtheball": 13,
+        "positioning": 12,
+        "teamwork": 14,
+        "vision": 13,
+        "workrate": 14
+      },
+      "physical": {
+        "aggression": 11,
+        "anticipation": 12,
+        "bravery": 11,
+        "composure": 11,
+        "concentration": 13,
+        "decisions": 12,
+        "determination": 12,
+        "flair": 10
+      }
+    }
+  },
+  {
+    "id": 49038271,
+    "name": "Maxence Lacroix",
+    "team": "VfL Wolfsburg",
+    "country": "France",
+    "info": {
+      "age": 22,
+      "position": "DC",
+      "foot": "Right",
+      "height": 190,
+      "weight": 88
+    },
+    "rating": { "ability": 70, "potential": 0 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 4,
+        "crossing": 6,
+        "dribbling": 13,
+        "finishing": 6,
+        "firsttouch": 12,
+        "freekick": 4,
+        "heading": 14,
+        "longshots": 5,
+        "longthrows": 6,
+        "marking": 14,
+        "passing": 13,
+        "penalty": 6,
+        "tackling": 14
+      },
+      "mental": {
+        "aggression": 13,
+        "anticipation": 13,
+        "bravery": 14,
+        "composure": 12,
+        "concentration": 12,
+        "decisions": 13,
+        "determination": 17,
+        "flair": 13,
+        "leadership": 10,
+        "offtheball": 8,
+        "positioning": 14,
+        "teamwork": 13,
+        "vision": 13,
+        "workrate": 13
+      },
+      "physical": {
+        "aggression": 4,
+        "anticipation": 6,
+        "bravery": 13,
+        "composure": 6,
+        "concentration": 12,
+        "decisions": 4,
+        "determination": 14,
+        "flair": 5
+      }
+    }
+  },
+  {
+    "id": 45109174,
+    "name": "Hidemasa Morita",
+    "team": "CD Santa Clara",
+    "country": "Japan",
+    "info": {
+      "age": 27,
+      "position": "DM, MC",
+      "foot": "Right",
+      "height": 177,
+      "weight": 74
+    },
+    "rating": { "ability": 70, "potential": 73 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 9,
+        "crossing": 10,
+        "dribbling": 12,
+        "finishing": 11,
+        "firsttouch": 16,
+        "freekick": 8,
+        "heading": 8,
+        "longshots": 11,
+        "longthrows": 8,
+        "marking": 11,
+        "passing": 14,
+        "penalty": 10,
+        "tackling": 14
+      },
+      "mental": {
+        "aggression": 16,
+        "anticipation": 14,
+        "bravery": 13,
+        "composure": 17,
+        "concentration": 16,
+        "decisions": 14,
+        "determination": 16,
+        "flair": 8,
+        "leadership": 13,
+        "offtheball": 10,
+        "positioning": 13,
+        "teamwork": 15,
+        "vision": 13,
+        "workrate": 13
+      },
+      "physical": {
+        "aggression": 9,
+        "anticipation": 10,
+        "bravery": 12,
+        "composure": 11,
+        "concentration": 16,
+        "decisions": 8,
+        "determination": 8,
+        "flair": 11
+      }
+    }
+  },
+  {
+    "id": 61042900,
+    "name": "Ryan Christie",
+    "team": "Bournemouth",
+    "country": "Scotland",
+    "info": {
+      "age": 27,
+      "position": "MC, MR, ML, AMR, AML, AMC",
+      "foot": "Left",
+      "height": 178,
+      "weight": 74
+    },
+    "rating": { "ability": 71, "potential": 75 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 11,
+        "crossing": 12,
+        "dribbling": 14,
+        "finishing": 14,
+        "firsttouch": 14,
+        "freekick": 12,
+        "heading": 5,
+        "longshots": 14,
+        "longthrows": 1,
+        "marking": 5,
+        "passing": 13,
+        "penalty": 11,
+        "tackling": 7
+      },
+      "mental": {
+        "aggression": 10,
+        "anticipation": 15,
+        "bravery": 7,
+        "composure": 13,
+        "concentration": 11,
+        "decisions": 13,
+        "determination": 12,
+        "flair": 16,
+        "leadership": 8,
+        "offtheball": 16,
+        "positioning": 9,
+        "teamwork": 12,
+        "vision": 16,
+        "workrate": 15
+      },
+      "physical": {
+        "aggression": 11,
+        "anticipation": 12,
+        "bravery": 14,
+        "composure": 14,
+        "concentration": 14,
+        "decisions": 12,
+        "determination": 5,
+        "flair": 14
+      }
+    }
+  },
+  {
+    "id": 28047560,
+    "name": "Jesse Lingard",
+    "team": "Man Utd",
+    "country": "England",
+    "info": {
+      "age": 29,
+      "position": "MR, ML, AMR, AML, AMC",
+      "foot": "Right",
+      "height": 175,
+      "weight": 62
+    },
+    "rating": { "ability": 71, "potential": 74 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 8,
+        "crossing": 11,
+        "dribbling": 14,
+        "finishing": 14,
+        "firsttouch": 13,
+        "freekick": 5,
+        "heading": 4,
+        "longshots": 11,
+        "longthrows": 4,
+        "marking": 4,
+        "passing": 13,
+        "penalty": 10,
+        "tackling": 6
+      },
+      "mental": {
+        "aggression": 15,
+        "anticipation": 13,
+        "bravery": 13,
+        "composure": 12,
+        "concentration": 13,
+        "decisions": 13,
+        "determination": 14,
+        "flair": 14,
+        "leadership": 5,
+        "offtheball": 17,
+        "positioning": 10,
+        "teamwork": 16,
+        "vision": 11,
+        "workrate": 17
+      },
+      "physical": {
+        "aggression": 8,
+        "anticipation": 11,
+        "bravery": 14,
+        "composure": 14,
+        "concentration": 13,
+        "decisions": 5,
+        "determination": 4,
+        "flair": 11
+      }
+    }
+  },
+  {
+    "id": 51042458,
+    "name": "Luis Romo",
+    "team": "Cruz Azul",
+    "country": "Mexico",
+    "info": {
+      "age": 27,
+      "position": "DC, DM, MC",
+      "foot": "Right",
+      "height": 182,
+      "weight": 82
+    },
+    "rating": { "ability": 70, "potential": 74 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 6,
+        "crossing": 12,
+        "dribbling": 8,
+        "finishing": 11,
+        "firsttouch": 13,
+        "freekick": 6,
+        "heading": 11,
+        "longshots": 12,
+        "longthrows": 11,
+        "marking": 12,
+        "passing": 13,
+        "penalty": 10,
+        "tackling": 12
+      },
+      "mental": {
+        "aggression": 9,
+        "anticipation": 13,
+        "bravery": 13,
+        "composure": 15,
+        "concentration": 13,
+        "decisions": 14,
+        "determination": 14,
+        "flair": 12,
+        "leadership": 13,
+        "offtheball": 13,
+        "positioning": 12,
+        "teamwork": 14,
+        "vision": 14,
+        "workrate": 16
+      },
+      "physical": {
+        "aggression": 6,
+        "anticipation": 12,
+        "bravery": 8,
+        "composure": 11,
+        "concentration": 13,
+        "decisions": 6,
+        "determination": 11,
+        "flair": 12
+      }
+    }
+  },
+  {
+    "id": 70099775,
+    "name": "Fatih Kuruçuk",
+    "team": "Hatayspor",
+    "country": "Turkey",
+    "info": {
+      "age": 24,
+      "position": "DC",
+      "foot": "Right",
+      "height": 192,
+      "weight": 80
+    },
+    "rating": { "ability": 58, "potential": 68 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 3,
+        "crossing": 5,
+        "dribbling": 9,
+        "finishing": 7,
+        "firsttouch": 7,
+        "freekick": 6,
+        "heading": 14,
+        "longshots": 4,
+        "longthrows": 7,
+        "marking": 13,
+        "passing": 10,
+        "penalty": 7,
+        "tackling": 13
+      },
+      "mental": {
+        "aggression": 8,
+        "anticipation": 14,
+        "bravery": 14,
+        "composure": 13,
+        "concentration": 14,
+        "decisions": 11,
+        "determination": 8,
+        "flair": 7,
+        "leadership": 7,
+        "offtheball": 8,
+        "positioning": 14,
+        "teamwork": 14,
+        "vision": 7,
+        "workrate": 12
+      },
+      "physical": {
+        "aggression": 3,
+        "anticipation": 5,
+        "bravery": 9,
+        "composure": 7,
+        "concentration": 7,
+        "decisions": 6,
+        "determination": 14,
+        "flair": 4
+      }
+    }
+  },
+  {
+    "id": 315542,
+    "name": "Daniel Alves",
+    "team": "Brazil",
+    "country": "Brazil",
+    "info": {
+      "age": 39,
+      "position": "DR, WBR, MC, MR",
+      "foot": "Right",
+      "height": 170,
+      "weight": 68
+    },
+    "rating": { "ability": 71, "potential": 87 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 13,
+        "crossing": 16,
+        "dribbling": 14,
+        "finishing": 12,
+        "firsttouch": 16,
+        "freekick": 13,
+        "heading": 10,
+        "longshots": 13,
+        "longthrows": 12,
+        "marking": 11,
+        "passing": 16,
+        "penalty": 14,
+        "tackling": 12
+      },
+      "mental": {
+        "aggression": 17,
+        "anticipation": 14,
+        "bravery": 16,
+        "composure": 14,
+        "concentration": 12,
+        "decisions": 15,
+        "determination": 20,
+        "flair": 15,
+        "leadership": 15,
+        "offtheball": 15,
+        "positioning": 10,
+        "teamwork": 14,
+        "vision": 15,
+        "workrate": 15
+      },
+      "physical": {
+        "aggression": 13,
+        "anticipation": 16,
+        "bravery": 14,
+        "composure": 12,
+        "concentration": 16,
+        "decisions": 13,
+        "determination": 10,
+        "flair": 13
+      }
+    }
+  },
+  {
+    "id": 18081611,
+    "name": "Jason Denayer",
+    "team": "Lyon",
+    "country": "Belgium",
+    "info": {
+      "age": 26,
+      "position": "DC",
+      "foot": "Right",
+      "height": 184,
+      "weight": 80
+    },
+    "rating": { "ability": 71, "potential": 72 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 5,
+        "crossing": 5,
+        "dribbling": 11,
+        "finishing": 5,
+        "firsttouch": 14,
+        "freekick": 5,
+        "heading": 13,
+        "longshots": 5,
+        "longthrows": 5,
+        "marking": 15,
+        "passing": 13,
+        "penalty": 5,
+        "tackling": 16
+      },
+      "mental": {
+        "aggression": 12,
+        "anticipation": 15,
+        "bravery": 14,
+        "composure": 13,
+        "concentration": 12,
+        "decisions": 12,
+        "determination": 12,
+        "flair": 11,
+        "leadership": 13,
+        "offtheball": 8,
+        "positioning": 15,
+        "teamwork": 14,
+        "vision": 11,
+        "workrate": 13
+      },
+      "physical": {
+        "aggression": 5,
+        "anticipation": 5,
+        "bravery": 11,
+        "composure": 5,
+        "concentration": 14,
+        "decisions": 5,
+        "determination": 13,
+        "flair": 5
+      }
+    }
+  },
+  {
+    "id": 70092175,
+    "name": "Sergen Piçinciol",
+    "team": "Giresunspor",
+    "country": "Turkey",
+    "info": {
+      "age": 26,
+      "position": "DC",
+      "foot": "Right",
+      "height": 169,
+      "weight": 0
+    },
+    "rating": { "ability": 50, "potential": 63 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 1,
+        "crossing": 3,
+        "dribbling": 7,
+        "finishing": 5,
+        "firsttouch": 10,
+        "freekick": 3,
+        "heading": 14,
+        "longshots": 4,
+        "longthrows": 2,
+        "marking": 13,
+        "passing": 11,
+        "penalty": 5,
+        "tackling": 13
+      },
+      "mental": {
+        "aggression": 12,
+        "anticipation": 13,
+        "bravery": 13,
+        "composure": 11,
+        "concentration": 12,
+        "decisions": 10,
+        "determination": 11,
+        "flair": 5,
+        "leadership": 10,
+        "offtheball": 7,
+        "positioning": 12,
+        "teamwork": 13,
+        "vision": 5,
+        "workrate": 14
+      },
+      "physical": {
+        "aggression": 1,
+        "anticipation": 3,
+        "bravery": 7,
+        "composure": 5,
+        "concentration": 10,
+        "decisions": 3,
+        "determination": 14,
+        "flair": 4
+      }
+    }
+  },
+  {
+    "id": 70099180,
+    "name": "Yasir Subasi",
+    "team": "Kayserispor",
+    "country": "Turkey",
+    "info": {
+      "age": 26,
+      "position": "DL",
+      "foot": "Left",
+      "height": 180,
+      "weight": 73
+    },
+    "rating": { "ability": 50, "potential": 60 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 6,
+        "crossing": 9,
+        "dribbling": 10,
+        "finishing": 7,
+        "firsttouch": 11,
+        "freekick": 5,
+        "heading": 10,
+        "longshots": 4,
+        "longthrows": 5,
+        "marking": 12,
+        "passing": 9,
+        "penalty": 4,
+        "tackling": 15
+      },
+      "mental": {
+        "aggression": 13,
+        "anticipation": 10,
+        "bravery": 16,
+        "composure": 8,
+        "concentration": 12,
+        "decisions": 9,
+        "determination": 14,
+        "flair": 5,
+        "leadership": 6,
+        "offtheball": 8,
+        "positioning": 11,
+        "teamwork": 12,
+        "vision": 10,
+        "workrate": 12
+      },
+      "physical": {
+        "aggression": 6,
+        "anticipation": 9,
+        "bravery": 10,
+        "composure": 7,
+        "concentration": 11,
+        "decisions": 5,
+        "determination": 10,
+        "flair": 4
+      }
+    }
+  },
+  {
+    "id": 91107170,
+    "name": "Tolga Cigerci",
+    "team": "İstanbul Başakşehir",
+    "country": "Turkey",
+    "info": {
+      "age": 30,
+      "position": "DM, MC, ML",
+      "foot": "Right",
+      "height": 185,
+      "weight": 75
+    },
+    "rating": { "ability": 58, "potential": 68 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 13,
+        "crossing": 11,
+        "dribbling": 10,
+        "finishing": 7,
+        "firsttouch": 12,
+        "freekick": 10,
+        "heading": 10,
+        "longshots": 12,
+        "longthrows": 8,
+        "marking": 11,
+        "passing": 14,
+        "penalty": 10,
+        "tackling": 12
+      },
+      "mental": {
+        "aggression": 14,
+        "anticipation": 12,
+        "bravery": 13,
+        "composure": 10,
+        "concentration": 13,
+        "decisions": 10,
+        "determination": 13,
+        "flair": 8,
+        "leadership": 10,
+        "offtheball": 12,
+        "positioning": 11,
+        "teamwork": 16,
+        "vision": 10,
+        "workrate": 18
+      },
+      "physical": {
+        "aggression": 13,
+        "anticipation": 11,
+        "bravery": 10,
+        "composure": 7,
+        "concentration": 12,
+        "decisions": 10,
+        "determination": 10,
+        "flair": 12
+      }
+    }
+  },
+  {
+    "id": 70007256,
+    "name": "Gençer Cansev",
+    "team": "Altay SK",
+    "country": "Turkey",
+    "info": {
+      "age": 33,
+      "position": "DC",
+      "foot": "Right",
+      "height": 187,
+      "weight": 80
+    },
+    "rating": { "ability": 50, "potential": 53 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 3,
+        "crossing": 3,
+        "dribbling": 5,
+        "finishing": 5,
+        "firsttouch": 8,
+        "freekick": 4,
+        "heading": 11,
+        "longshots": 6,
+        "longthrows": 8,
+        "marking": 14,
+        "passing": 8,
+        "penalty": 7,
+        "tackling": 12
+      },
+      "mental": {
+        "aggression": 11,
+        "anticipation": 13,
+        "bravery": 15,
+        "composure": 9,
+        "concentration": 13,
+        "decisions": 10,
+        "determination": 11,
+        "flair": 4,
+        "leadership": 10,
+        "offtheball": 6,
+        "positioning": 12,
+        "teamwork": 14,
+        "vision": 3,
+        "workrate": 12
+      },
+      "physical": {
+        "aggression": 3,
+        "anticipation": 3,
+        "bravery": 5,
+        "composure": 5,
+        "concentration": 8,
+        "decisions": 4,
+        "determination": 11,
+        "flair": 6
+      }
+    }
+  },
+  {
+    "id": 92091314,
+    "name": "Makana Baku",
+    "team": "Göztepe SK",
+    "country": "Germany",
+    "info": {
+      "age": 24,
+      "position": "MR, ML, AMR, AML",
+      "foot": "Left",
+      "height": 177,
+      "weight": 72
+    },
+    "rating": { "ability": 58, "potential": 64 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 11,
+        "crossing": 12,
+        "dribbling": 14,
+        "finishing": 12,
+        "firsttouch": 13,
+        "freekick": 10,
+        "heading": 8,
+        "longshots": 14,
+        "longthrows": 7,
+        "marking": 5,
+        "passing": 11,
+        "penalty": 10,
+        "tackling": 7
+      },
+      "mental": {
+        "aggression": 14,
+        "anticipation": 10,
+        "bravery": 11,
+        "composure": 10,
+        "concentration": 9,
+        "decisions": 9,
+        "determination": 11,
+        "flair": 15,
+        "leadership": 5,
+        "offtheball": 13,
+        "positioning": 7,
+        "teamwork": 10,
+        "vision": 12,
+        "workrate": 14
+      },
+      "physical": {
+        "aggression": 11,
+        "anticipation": 12,
+        "bravery": 14,
+        "composure": 12,
+        "concentration": 13,
+        "decisions": 10,
+        "determination": 8,
+        "flair": 14
+      }
+    }
+  },
+  {
+    "id": 85121414,
+    "name": "Fousseni Diabaté",
+    "team": "Giresunspor",
+    "country": "Mali",
+    "info": {
+      "age": 26,
+      "position": "AMR, AML, ST",
+      "foot": "Left",
+      "height": 175,
+      "weight": 65
+    },
+    "rating": { "ability": 58, "potential": 66 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 12,
+        "crossing": 10,
+        "dribbling": 14,
+        "finishing": 10,
+        "firsttouch": 12,
+        "freekick": 6,
+        "heading": 7,
+        "longshots": 7,
+        "longthrows": 4,
+        "marking": 4,
+        "passing": 11,
+        "penalty": 9,
+        "tackling": 3
+      },
+      "mental": {
+        "aggression": 12,
+        "anticipation": 10,
+        "bravery": 8,
+        "composure": 10,
+        "concentration": 9,
+        "decisions": 10,
+        "determination": 13,
+        "flair": 9,
+        "leadership": 7,
+        "offtheball": 13,
+        "positioning": 5,
+        "teamwork": 7,
+        "vision": 7,
+        "workrate": 7
+      },
+      "physical": {
+        "aggression": 12,
+        "anticipation": 10,
+        "bravery": 14,
+        "composure": 10,
+        "concentration": 12,
+        "decisions": 6,
+        "determination": 7,
+        "flair": 7
+      }
+    }
+  },
+  {
+    "id": 67100016,
+    "name": "Rafinha",
+    "team": "Paris Saint-Germain",
+    "country": "Brazil",
+    "info": {
+      "age": 29,
+      "position": "MC, MR, AMR, AMC",
+      "foot": "Left",
+      "height": 174,
+      "weight": 71
+    },
+    "rating": { "ability": 72, "potential": 78 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 15,
+        "crossing": 15,
+        "dribbling": 16,
+        "finishing": 11,
+        "firsttouch": 16,
+        "freekick": 14,
+        "heading": 10,
+        "longshots": 13,
+        "longthrows": 8,
+        "marking": 8,
+        "passing": 16,
+        "penalty": 13,
+        "tackling": 10
+      },
+      "mental": {
+        "aggression": 15,
+        "anticipation": 14,
+        "bravery": 14,
+        "composure": 13,
+        "concentration": 13,
+        "decisions": 12,
+        "determination": 14,
+        "flair": 13,
+        "leadership": 11,
+        "offtheball": 14,
+        "positioning": 9,
+        "teamwork": 15,
+        "vision": 15,
+        "workrate": 14
+      },
+      "physical": {
+        "aggression": 15,
+        "anticipation": 15,
+        "bravery": 16,
+        "composure": 11,
+        "concentration": 16,
+        "decisions": 14,
+        "determination": 10,
+        "flair": 13
+      }
+    }
+  },
+  {
+    "id": 24000971,
+    "name": "Dejan Lovren",
+    "team": "Zenit",
+    "country": "Croatia",
+    "info": {
+      "age": 32,
+      "position": "DC",
+      "foot": "Right",
+      "height": 190,
+      "weight": 84
+    },
+    "rating": { "ability": 71, "potential": 77 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 5,
+        "crossing": 6,
+        "dribbling": 10,
+        "finishing": 8,
+        "firsttouch": 13,
+        "freekick": 7,
+        "heading": 16,
+        "longshots": 7,
+        "longthrows": 10,
+        "marking": 14,
+        "passing": 14,
+        "penalty": 8,
+        "tackling": 14
+      },
+      "mental": {
+        "aggression": 15,
+        "anticipation": 16,
+        "bravery": 16,
+        "composure": 14,
+        "concentration": 11,
+        "decisions": 12,
+        "determination": 15,
+        "flair": 9,
+        "leadership": 12,
+        "offtheball": 9,
+        "positioning": 15,
+        "teamwork": 13,
+        "vision": 12,
+        "workrate": 13
+      },
+      "physical": {
+        "aggression": 5,
+        "anticipation": 6,
+        "bravery": 10,
+        "composure": 8,
+        "concentration": 13,
+        "decisions": 7,
+        "determination": 16,
+        "flair": 7
+      }
+    }
+  },
+  {
+    "id": 78000335,
+    "name": "Luis Suárez",
+    "team": "Atlético de Madrid",
+    "country": "Uruguay",
+    "info": {
+      "age": 35,
+      "position": "ST",
+      "foot": "Right",
+      "height": 182,
+      "weight": 86
+    },
+    "rating": { "ability": 83, "potential": 94 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 13,
+        "crossing": 15,
+        "dribbling": 15,
+        "finishing": 18,
+        "firsttouch": 16,
+        "freekick": 17,
+        "heading": 13,
+        "longshots": 16,
+        "longthrows": 8,
+        "marking": 8,
+        "passing": 16,
+        "penalty": 16,
+        "tackling": 10
+      },
+      "mental": {
+        "aggression": 17,
+        "anticipation": 17,
+        "bravery": 18,
+        "composure": 17,
+        "concentration": 14,
+        "decisions": 15,
+        "determination": 19,
+        "flair": 18,
+        "leadership": 15,
+        "offtheball": 17,
+        "positioning": 10,
+        "teamwork": 14,
+        "vision": 15,
+        "workrate": 14
+      },
+      "physical": {
+        "aggression": 13,
+        "anticipation": 15,
+        "bravery": 15,
+        "composure": 18,
+        "concentration": 16,
+        "decisions": 17,
+        "determination": 13,
+        "flair": 16
+      }
+    }
+  },
+  {
+    "id": 70036670,
+    "name": "Ertaç Özbir",
+    "team": "Yeni Malatyaspor",
+    "country": "Turkey",
+    "info": {
+      "age": 32,
+      "position": "GK",
+      "foot": "Right",
+      "height": 188,
+      "weight": 78
+    },
+    "rating": { "ability": 58, "potential": 63 },
+    "attributes": {
+      "goalkeeping": {
+        "aerialreach": 12,
+        "commandofarea": 13,
+        "communication": 12,
+        "eccentricity": 6,
+        "firsttouch": 6,
+        "handling": 14,
+        "kicking": 12,
+        "oneonones": 14,
+        "passing": 6,
+        "punching": 15,
+        "reflexes": 14,
+        "rushingout": 12
+      },
+      "technical": { "freekick": 7, "penalty": 1, "technique": 8 },
+      "mental": {
+        "aggression": 13,
+        "anticipation": 13,
+        "bravery": 15,
+        "composure": 11,
+        "concentration": 12,
+        "decisions": 12,
+        "determination": 10,
+        "flair": 3,
+        "leadership": 13,
+        "offtheball": 1,
+        "positioning": 12,
+        "teamwork": 10,
+        "vision": 6,
+        "workrate": 11
+      },
+      "physical": {
+        "aggression": 12,
+        "anticipation": 13,
+        "bravery": 12,
+        "composure": 6,
+        "concentration": 6,
+        "decisions": 14,
+        "determination": 12,
+        "flair": 14
+      }
+    }
+  },
+  {
+    "id": 8435089,
+    "name": "Karim Benzema",
+    "team": "Real Madrid",
+    "country": "France",
+    "info": {
+      "age": 34,
+      "position": "ST",
+      "foot": "Right",
+      "height": 185,
+      "weight": 82
+    },
+    "rating": { "ability": 90, "potential": 90 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 10,
+        "crossing": 13,
+        "dribbling": 16,
+        "finishing": 16,
+        "firsttouch": 19,
+        "freekick": 12,
+        "heading": 15,
+        "longshots": 12,
+        "longthrows": 7,
+        "marking": 7,
+        "passing": 18,
+        "penalty": 15,
+        "tackling": 9
+      },
+      "mental": {
+        "aggression": 7,
+        "anticipation": 14,
+        "bravery": 8,
+        "composure": 18,
+        "concentration": 13,
+        "decisions": 17,
+        "determination": 16,
+        "flair": 17,
+        "leadership": 11,
+        "offtheball": 15,
+        "positioning": 11,
+        "teamwork": 16,
+        "vision": 17,
+        "workrate": 13
+      },
+      "physical": {
+        "aggression": 10,
+        "anticipation": 13,
+        "bravery": 16,
+        "composure": 16,
+        "concentration": 19,
+        "decisions": 12,
+        "determination": 15,
+        "flair": 12
+      }
+    }
+  },
+  {
+    "id": 92017506,
+    "name": "Odysseas Vlachodimos",
+    "team": "SL Benfica",
+    "country": "Greece",
+    "info": {
+      "age": 28,
+      "position": "GK",
+      "foot": "Right",
+      "height": 191,
+      "weight": 76
+    },
+    "rating": { "ability": 72, "potential": 73 },
+    "attributes": {
+      "goalkeeping": {
+        "aerialreach": 14,
+        "commandofarea": 8,
+        "communication": 10,
+        "eccentricity": 4,
+        "firsttouch": 9,
+        "handling": 15,
+        "kicking": 13,
+        "oneonones": 16,
+        "passing": 8,
+        "punching": 13,
+        "reflexes": 18,
+        "rushingout": 7
+      },
+      "technical": { "freekick": 8, "penalty": 3, "technique": 8 },
+      "mental": {
+        "aggression": 11,
+        "anticipation": 14,
+        "bravery": 13,
+        "composure": 12,
+        "concentration": 14,
+        "decisions": 13,
+        "determination": 13,
+        "flair": 4,
+        "leadership": 10,
+        "offtheball": 3,
+        "positioning": 15,
+        "teamwork": 13,
+        "vision": 9,
+        "workrate": 13
+      },
+      "physical": {
+        "aggression": 14,
+        "anticipation": 8,
+        "bravery": 10,
+        "composure": 4,
+        "concentration": 9,
+        "decisions": 15,
+        "determination": 13,
+        "flair": 16
+      }
+    }
+  },
+  {
+    "id": 14026771,
+    "name": "Gonzalo Martínez",
+    "team": "Al-Nassr (KSA)",
+    "country": "Argentina",
+    "info": {
+      "age": 29,
+      "position": "ML, AMR, AML",
+      "foot": "Left",
+      "height": 173,
+      "weight": 75
+    },
+    "rating": { "ability": 72, "potential": 75 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 16,
+        "crossing": 15,
+        "dribbling": 17,
+        "finishing": 12,
+        "firsttouch": 15,
+        "freekick": 15,
+        "heading": 6,
+        "longshots": 15,
+        "longthrows": 6,
+        "marking": 6,
+        "passing": 14,
+        "penalty": 13,
+        "tackling": 8
+      },
+      "mental": {
+        "aggression": 6,
+        "anticipation": 13,
+        "bravery": 7,
+        "composure": 10,
+        "concentration": 8,
+        "decisions": 10,
+        "determination": 14,
+        "flair": 17,
+        "leadership": 7,
+        "offtheball": 14,
+        "positioning": 5,
+        "teamwork": 10,
+        "vision": 13,
+        "workrate": 10
+      },
+      "physical": {
+        "aggression": 16,
+        "anticipation": 15,
+        "bravery": 17,
+        "composure": 12,
+        "concentration": 15,
+        "decisions": 15,
+        "determination": 6,
+        "flair": 15
+      }
+    }
+  },
+  {
+    "id": 168235,
+    "name": "Quincy Promes",
+    "team": "Spartak Moscow",
+    "country": "Netherlands",
+    "info": {
+      "age": 30,
+      "position": "ML, AMR, AML, AMC",
+      "foot": "Right",
+      "height": 174,
+      "weight": 71
+    },
+    "rating": { "ability": 71, "potential": 75 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 14,
+        "crossing": 11,
+        "dribbling": 13,
+        "finishing": 13,
+        "firsttouch": 14,
+        "freekick": 11,
+        "heading": 8,
+        "longshots": 12,
+        "longthrows": 6,
+        "marking": 9,
+        "passing": 12,
+        "penalty": 14,
+        "tackling": 7
+      },
+      "mental": {
+        "aggression": 8,
+        "anticipation": 12,
+        "bravery": 10,
+        "composure": 10,
+        "concentration": 12,
+        "decisions": 12,
+        "determination": 18,
+        "flair": 16,
+        "leadership": 10,
+        "offtheball": 14,
+        "positioning": 7,
+        "teamwork": 10,
+        "vision": 10,
+        "workrate": 13
+      },
+      "physical": {
+        "aggression": 14,
+        "anticipation": 11,
+        "bravery": 13,
+        "composure": 13,
+        "concentration": 14,
+        "decisions": 11,
+        "determination": 8,
+        "flair": 12
+      }
+    }
+  },
+  {
+    "id": 70005998,
+    "name": "Mustafa Pektemek",
+    "team": "Kayserispor",
+    "country": "Turkey",
+    "info": {
+      "age": 33,
+      "position": "AMR, AML, ST",
+      "foot": "Right",
+      "height": 183,
+      "weight": 72
+    },
+    "rating": { "ability": 58, "potential": 65 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 6,
+        "crossing": 8,
+        "dribbling": 12,
+        "finishing": 13,
+        "firsttouch": 13,
+        "freekick": 6,
+        "heading": 13,
+        "longshots": 9,
+        "longthrows": 6,
+        "marking": 5,
+        "passing": 11,
+        "penalty": 11,
+        "tackling": 5
+      },
+      "mental": {
+        "aggression": 14,
+        "anticipation": 13,
+        "bravery": 13,
+        "composure": 11,
+        "concentration": 11,
+        "decisions": 9,
+        "determination": 12,
+        "flair": 11,
+        "leadership": 7,
+        "offtheball": 13,
+        "positioning": 9,
+        "teamwork": 14,
+        "vision": 9,
+        "workrate": 16
+      },
+      "physical": {
+        "aggression": 6,
+        "anticipation": 8,
+        "bravery": 12,
+        "composure": 13,
+        "concentration": 13,
+        "decisions": 6,
+        "determination": 13,
+        "flair": 9
+      }
+    }
+  },
+  {
+    "id": 51031039,
+    "name": "Rodolfo Pizarro",
+    "team": "Inter Miami",
+    "country": "Mexico",
+    "info": {
+      "age": 28,
+      "position": "AML, AMC",
+      "foot": "Right",
+      "height": 172,
+      "weight": 73
+    },
+    "rating": { "ability": 70, "potential": 78 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 11,
+        "crossing": 11,
+        "dribbling": 15,
+        "finishing": 11,
+        "firsttouch": 13,
+        "freekick": 8,
+        "heading": 9,
+        "longshots": 11,
+        "longthrows": 12,
+        "marking": 12,
+        "passing": 14,
+        "penalty": 5,
+        "tackling": 8
+      },
+      "mental": {
+        "aggression": 5,
+        "anticipation": 13,
+        "bravery": 10,
+        "composure": 14,
+        "concentration": 13,
+        "decisions": 14,
+        "determination": 8,
+        "flair": 15,
+        "leadership": 13,
+        "offtheball": 16,
+        "positioning": 13,
+        "teamwork": 11,
+        "vision": 15,
+        "workrate": 14
+      },
+      "physical": {
+        "aggression": 11,
+        "anticipation": 11,
+        "bravery": 15,
+        "composure": 11,
+        "concentration": 13,
+        "decisions": 8,
+        "determination": 9,
+        "flair": 11
+      }
+    }
+  },
+  {
+    "id": 70094122,
+    "name": "Hayrullah Bilazer",
+    "team": "Giresunspor",
+    "country": "Turkey",
+    "info": {
+      "age": 27,
+      "position": "DR",
+      "foot": "Right",
+      "height": 170,
+      "weight": 0
+    },
+    "rating": { "ability": 50, "potential": 55 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 5,
+        "crossing": 12,
+        "dribbling": 10,
+        "finishing": 5,
+        "firsttouch": 11,
+        "freekick": 4,
+        "heading": 6,
+        "longshots": 5,
+        "longthrows": 12,
+        "marking": 9,
+        "passing": 10,
+        "penalty": 5,
+        "tackling": 12
+      },
+      "mental": {
+        "aggression": 13,
+        "anticipation": 11,
+        "bravery": 11,
+        "composure": 9,
+        "concentration": 13,
+        "decisions": 10,
+        "determination": 13,
+        "flair": 8,
+        "leadership": 5,
+        "offtheball": 8,
+        "positioning": 12,
+        "teamwork": 13,
+        "vision": 8,
+        "workrate": 14
+      },
+      "physical": {
+        "aggression": 5,
+        "anticipation": 12,
+        "bravery": 10,
+        "composure": 5,
+        "concentration": 11,
+        "decisions": 4,
+        "determination": 6,
+        "flair": 5
+      }
+    }
+  },
+  {
+    "id": 70107354,
+    "name": "Murat Cem Akpinar",
+    "team": "Trabzonspor",
+    "country": "Turkey",
+    "info": {
+      "age": 23,
+      "position": "MC",
+      "foot": "Right",
+      "height": 173,
+      "weight": 65
+    },
+    "rating": { "ability": 50, "potential": 65 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 8,
+        "crossing": 8,
+        "dribbling": 14,
+        "finishing": 10,
+        "firsttouch": 14,
+        "freekick": 10,
+        "heading": 3,
+        "longshots": 12,
+        "longthrows": 5,
+        "marking": 6,
+        "passing": 13,
+        "penalty": 10,
+        "tackling": 7
+      },
+      "mental": {
+        "aggression": 10,
+        "anticipation": 10,
+        "bravery": 8,
+        "composure": 12,
+        "concentration": 11,
+        "decisions": 12,
+        "determination": 13,
+        "flair": 13,
+        "leadership": 5,
+        "offtheball": 12,
+        "positioning": 8,
+        "teamwork": 12,
+        "vision": 12,
+        "workrate": 10
+      },
+      "physical": {
+        "aggression": 8,
+        "anticipation": 8,
+        "bravery": 14,
+        "composure": 10,
+        "concentration": 14,
+        "decisions": 10,
+        "determination": 3,
+        "flair": 12
+      }
+    }
+  },
+  {
+    "id": 48043086,
+    "name": "Dan-Axel Zagadou",
+    "team": "Borussia Dortmund",
+    "country": "France",
+    "info": {
+      "age": 23,
+      "position": "DC",
+      "foot": "Left",
+      "height": 196,
+      "weight": 90
+    },
+    "rating": { "ability": 70, "potential": 80 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 3,
+        "crossing": 8,
+        "dribbling": 9,
+        "finishing": 6,
+        "firsttouch": 14,
+        "freekick": 4,
+        "heading": 13,
+        "longshots": 5,
+        "longthrows": 10,
+        "marking": 14,
+        "passing": 14,
+        "penalty": 7,
+        "tackling": 14
+      },
+      "mental": {
+        "aggression": 6,
+        "anticipation": 13,
+        "bravery": 15,
+        "composure": 18,
+        "concentration": 13,
+        "decisions": 15,
+        "determination": 12,
+        "flair": 8,
+        "leadership": 9,
+        "offtheball": 5,
+        "positioning": 15,
+        "teamwork": 15,
+        "vision": 12,
+        "workrate": 10
+      },
+      "physical": {
+        "aggression": 3,
+        "anticipation": 8,
+        "bravery": 9,
+        "composure": 6,
+        "concentration": 14,
+        "decisions": 4,
+        "determination": 13,
+        "flair": 5
+      }
+    }
+  },
+  {
+    "id": 28027676,
+    "name": "Omar Elabdellaoui",
+    "team": "Galatasaray SK",
+    "country": "Norway",
+    "info": {
+      "age": 30,
+      "position": "DR, WBR, MR",
+      "foot": "Right",
+      "height": 179,
+      "weight": 73
+    },
+    "rating": { "ability": 58, "potential": 68 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 10,
+        "crossing": 13,
+        "dribbling": 13,
+        "finishing": 8,
+        "firsttouch": 13,
+        "freekick": 7,
+        "heading": 9,
+        "longshots": 10,
+        "longthrows": 13,
+        "marking": 12,
+        "passing": 12,
+        "penalty": 8,
+        "tackling": 13
+      },
+      "mental": {
+        "aggression": 13,
+        "anticipation": 10,
+        "bravery": 14,
+        "composure": 12,
+        "concentration": 11,
+        "decisions": 12,
+        "determination": 13,
+        "flair": 12,
+        "leadership": 13,
+        "offtheball": 13,
+        "positioning": 12,
+        "teamwork": 15,
+        "vision": 8,
+        "workrate": 15
+      },
+      "physical": {
+        "aggression": 10,
+        "anticipation": 13,
+        "bravery": 13,
+        "composure": 8,
+        "concentration": 13,
+        "decisions": 7,
+        "determination": 9,
+        "flair": 10
+      }
+    }
+  },
+  {
+    "id": 25002958,
+    "name": "Tomáš Vaclík",
+    "team": "Olympiakos",
+    "country": "Czech Republic",
+    "info": {
+      "age": 33,
+      "position": "GK",
+      "foot": "Right",
+      "height": 188,
+      "weight": 82
+    },
+    "rating": { "ability": 70, "potential": 75 },
+    "attributes": {
+      "goalkeeping": {
+        "aerialreach": 12,
+        "commandofarea": 13,
+        "communication": 14,
+        "eccentricity": 8,
+        "firsttouch": 10,
+        "handling": 16,
+        "kicking": 13,
+        "oneonones": 15,
+        "passing": 12,
+        "punching": 10,
+        "reflexes": 15,
+        "rushingout": 10
+      },
+      "technical": { "freekick": 5, "penalty": 9, "technique": 9 },
+      "mental": {
+        "aggression": 6,
+        "anticipation": 14,
+        "bravery": 15,
+        "composure": 16,
+        "concentration": 15,
+        "decisions": 12,
+        "determination": 15,
+        "flair": 8,
+        "leadership": 11,
+        "offtheball": 5,
+        "positioning": 14,
+        "teamwork": 15,
+        "vision": 10,
+        "workrate": 9
+      },
+      "physical": {
+        "aggression": 12,
+        "anticipation": 13,
+        "bravery": 14,
+        "composure": 8,
+        "concentration": 10,
+        "decisions": 16,
+        "determination": 13,
+        "flair": 15
+      }
+    }
+  },
+  {
+    "id": 24014057,
+    "name": "Mislav Oršic",
+    "team": "Dinamo Zagreb",
+    "country": "Croatia",
+    "info": {
+      "age": 29,
+      "position": "ML, AML",
+      "foot": "Right",
+      "height": 179,
+      "weight": 69
+    },
+    "rating": { "ability": 70, "potential": 71 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 14,
+        "crossing": 12,
+        "dribbling": 12,
+        "finishing": 15,
+        "firsttouch": 11,
+        "freekick": 16,
+        "heading": 8,
+        "longshots": 17,
+        "longthrows": 4,
+        "marking": 7,
+        "passing": 11,
+        "penalty": 14,
+        "tackling": 10
+      },
+      "mental": {
+        "aggression": 6,
+        "anticipation": 10,
+        "bravery": 7,
+        "composure": 12,
+        "concentration": 12,
+        "decisions": 10,
+        "determination": 11,
+        "flair": 13,
+        "leadership": 3,
+        "offtheball": 15,
+        "positioning": 10,
+        "teamwork": 11,
+        "vision": 12,
+        "workrate": 14
+      },
+      "physical": {
+        "aggression": 14,
+        "anticipation": 12,
+        "bravery": 12,
+        "composure": 15,
+        "concentration": 11,
+        "decisions": 16,
+        "determination": 8,
+        "flair": 17
+      }
+    }
+  },
+  {
+    "id": 67093060,
+    "name": "Álvaro",
+    "team": "Marseille",
+    "country": "Spain",
+    "info": {
+      "age": 32,
+      "position": "DR, DC",
+      "foot": "Right",
+      "height": 182,
+      "weight": 75
+    },
+    "rating": { "ability": 70, "potential": 73 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 5,
+        "crossing": 7,
+        "dribbling": 10,
+        "finishing": 6,
+        "firsttouch": 12,
+        "freekick": 6,
+        "heading": 14,
+        "longshots": 9,
+        "longthrows": 13,
+        "marking": 15,
+        "passing": 10,
+        "penalty": 8,
+        "tackling": 14
+      },
+      "mental": {
+        "aggression": 14,
+        "anticipation": 15,
+        "bravery": 16,
+        "composure": 15,
+        "concentration": 15,
+        "decisions": 14,
+        "determination": 14,
+        "flair": 7,
+        "leadership": 14,
+        "offtheball": 7,
+        "positioning": 14,
+        "teamwork": 12,
+        "vision": 11,
+        "workrate": 14
+      },
+      "physical": {
+        "aggression": 5,
+        "anticipation": 7,
+        "bravery": 10,
+        "composure": 6,
+        "concentration": 12,
+        "decisions": 6,
+        "determination": 14,
+        "flair": 9
+      }
+    }
+  },
+  {
+    "id": 28053828,
+    "name": "Kerim Frei",
+    "team": "Fatih Karagümrük",
+    "country": "Turkey",
+    "info": {
+      "age": 28,
+      "position": "MR, ML, AMR, AML",
+      "foot": "Right",
+      "height": 171,
+      "weight": 70
+    },
+    "rating": { "ability": 58, "potential": 63 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 10,
+        "crossing": 10,
+        "dribbling": 16,
+        "finishing": 9,
+        "firsttouch": 14,
+        "freekick": 10,
+        "heading": 5,
+        "longshots": 9,
+        "longthrows": 3,
+        "marking": 4,
+        "passing": 11,
+        "penalty": 8,
+        "tackling": 3
+      },
+      "mental": {
+        "aggression": 6,
+        "anticipation": 7,
+        "bravery": 8,
+        "composure": 10,
+        "concentration": 10,
+        "decisions": 7,
+        "determination": 8,
+        "flair": 17,
+        "leadership": 2,
+        "offtheball": 9,
+        "positioning": 5,
+        "teamwork": 7,
+        "vision": 8,
+        "workrate": 11
+      },
+      "physical": {
+        "aggression": 10,
+        "anticipation": 10,
+        "bravery": 16,
+        "composure": 9,
+        "concentration": 14,
+        "decisions": 10,
+        "determination": 5,
+        "flair": 9
+      }
+    }
+  },
+  {
+    "id": 70058759,
+    "name": "Tolga Ünlü",
+    "team": "Altay SK",
+    "country": "Turkey",
+    "info": {
+      "age": 32,
+      "position": "DR",
+      "foot": "Right",
+      "height": 180,
+      "weight": 70
+    },
+    "rating": { "ability": 50, "potential": 55 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 5,
+        "crossing": 14,
+        "dribbling": 11,
+        "finishing": 4,
+        "firsttouch": 12,
+        "freekick": 6,
+        "heading": 11,
+        "longshots": 5,
+        "longthrows": 13,
+        "marking": 12,
+        "passing": 9,
+        "penalty": 7,
+        "tackling": 11
+      },
+      "mental": {
+        "aggression": 11,
+        "anticipation": 9,
+        "bravery": 10,
+        "composure": 14,
+        "concentration": 10,
+        "decisions": 9,
+        "determination": 12,
+        "flair": 12,
+        "leadership": 5,
+        "offtheball": 8,
+        "positioning": 12,
+        "teamwork": 13,
+        "vision": 6,
+        "workrate": 14
+      },
+      "physical": {
+        "aggression": 5,
+        "anticipation": 14,
+        "bravery": 11,
+        "composure": 4,
+        "concentration": 12,
+        "decisions": 6,
+        "determination": 11,
+        "flair": 5
+      }
+    }
+  },
+  {
+    "id": 29083750,
+    "name": "Nick Pope",
+    "team": "Burnley",
+    "country": "England",
+    "info": {
+      "age": 30,
+      "position": "GK",
+      "foot": "Right",
+      "height": 196,
+      "weight": 78
+    },
+    "rating": { "ability": 70, "potential": 78 },
+    "attributes": {
+      "goalkeeping": {
+        "aerialreach": 17,
+        "commandofarea": 16,
+        "communication": 15,
+        "eccentricity": 2,
+        "firsttouch": 7,
+        "handling": 16,
+        "kicking": 8,
+        "oneonones": 16,
+        "passing": 10,
+        "punching": 12,
+        "reflexes": 15,
+        "rushingout": 13
+      },
+      "technical": { "freekick": 4, "penalty": 1, "technique": 7 },
+      "mental": {
+        "aggression": 8,
+        "anticipation": 15,
+        "bravery": 13,
+        "composure": 9,
+        "concentration": 14,
+        "decisions": 12,
+        "determination": 14,
+        "flair": 4,
+        "leadership": 8,
+        "offtheball": 2,
+        "positioning": 15,
+        "teamwork": 15,
+        "vision": 6,
+        "workrate": 15
+      },
+      "physical": {
+        "aggression": 17,
+        "anticipation": 16,
+        "bravery": 15,
+        "composure": 2,
+        "concentration": 7,
+        "decisions": 16,
+        "determination": 8,
+        "flair": 16
+      }
+    }
+  },
+  {
+    "id": 24039948,
+    "name": "Nikola Vlašic",
+    "team": "West Ham",
+    "country": "Croatia",
+    "info": {
+      "age": 24,
+      "position": "MC, AML, AMC",
+      "foot": "Right",
+      "height": 178,
+      "weight": 79
+    },
+    "rating": { "ability": 71, "potential": 77 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 12,
+        "crossing": 12,
+        "dribbling": 16,
+        "finishing": 12,
+        "firsttouch": 14,
+        "freekick": 12,
+        "heading": 9,
+        "longshots": 14,
+        "longthrows": 6,
+        "marking": 7,
+        "passing": 14,
+        "penalty": 12,
+        "tackling": 8
+      },
+      "mental": {
+        "aggression": 13,
+        "anticipation": 13,
+        "bravery": 11,
+        "composure": 13,
+        "concentration": 13,
+        "decisions": 14,
+        "determination": 17,
+        "flair": 14,
+        "leadership": 13,
+        "offtheball": 13,
+        "positioning": 8,
+        "teamwork": 10,
+        "vision": 14,
+        "workrate": 11
+      },
+      "physical": {
+        "aggression": 12,
+        "anticipation": 12,
+        "bravery": 16,
+        "composure": 12,
+        "concentration": 14,
+        "decisions": 12,
+        "determination": 9,
+        "flair": 14
+      }
+    }
+  },
+  {
+    "id": 91012823,
+    "name": "Tarik Çamdal",
+    "team": "Adana Demirspor",
+    "country": "Turkey",
+    "info": {
+      "age": 31,
+      "position": "DR, DL, WBR, WBL",
+      "foot": "Right",
+      "height": 176,
+      "weight": 63
+    },
+    "rating": { "ability": 50, "potential": 55 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 7,
+        "crossing": 12,
+        "dribbling": 12,
+        "finishing": 7,
+        "firsttouch": 12,
+        "freekick": 5,
+        "heading": 7,
+        "longshots": 9,
+        "longthrows": 6,
+        "marking": 8,
+        "passing": 11,
+        "penalty": 6,
+        "tackling": 7
+      },
+      "mental": {
+        "aggression": 11,
+        "anticipation": 7,
+        "bravery": 12,
+        "composure": 9,
+        "concentration": 12,
+        "decisions": 10,
+        "determination": 7,
+        "flair": 13,
+        "leadership": 5,
+        "offtheball": 11,
+        "positioning": 10,
+        "teamwork": 12,
+        "vision": 9,
+        "workrate": 13
+      },
+      "physical": {
+        "aggression": 7,
+        "anticipation": 12,
+        "bravery": 12,
+        "composure": 7,
+        "concentration": 12,
+        "decisions": 5,
+        "determination": 7,
+        "flair": 9
+      }
+    }
+  },
+  {
+    "id": 84122771,
+    "name": "Miguel Crespo",
+    "team": "Fenerbahçe",
+    "country": "Portugal",
+    "info": {
+      "age": 25,
+      "position": "MC",
+      "foot": "Right",
+      "height": 185,
+      "weight": 78
+    },
+    "rating": { "ability": 60, "potential": 69 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 12,
+        "crossing": 12,
+        "dribbling": 11,
+        "finishing": 11,
+        "firsttouch": 13,
+        "freekick": 8,
+        "heading": 5,
+        "longshots": 11,
+        "longthrows": 7,
+        "marking": 7,
+        "passing": 12,
+        "penalty": 10,
+        "tackling": 10
+      },
+      "mental": {
+        "aggression": 13,
+        "anticipation": 12,
+        "bravery": 14,
+        "composure": 13,
+        "concentration": 12,
+        "decisions": 12,
+        "determination": 14,
+        "flair": 11,
+        "leadership": 8,
+        "offtheball": 13,
+        "positioning": 12,
+        "teamwork": 14,
+        "vision": 11,
+        "workrate": 14
+      },
+      "physical": {
+        "aggression": 12,
+        "anticipation": 12,
+        "bravery": 11,
+        "composure": 11,
+        "concentration": 13,
+        "decisions": 8,
+        "determination": 5,
+        "flair": 11
+      }
+    }
+  },
+  {
+    "id": 8058701,
+    "name": "Fedor Kudryashov",
+    "team": "Antalyaspor",
+    "country": "Russia",
+    "info": {
+      "age": 35,
+      "position": "DL, DC",
+      "foot": "Left",
+      "height": 180,
+      "weight": 77
+    },
+    "rating": { "ability": 60, "potential": 64 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 8,
+        "crossing": 10,
+        "dribbling": 10,
+        "finishing": 6,
+        "firsttouch": 10,
+        "freekick": 6,
+        "heading": 13,
+        "longshots": 7,
+        "longthrows": 12,
+        "marking": 13,
+        "passing": 11,
+        "penalty": 5,
+        "tackling": 12
+      },
+      "mental": {
+        "aggression": 12,
+        "anticipation": 13,
+        "bravery": 13,
+        "composure": 12,
+        "concentration": 13,
+        "decisions": 12,
+        "determination": 12,
+        "flair": 8,
+        "leadership": 10,
+        "offtheball": 10,
+        "positioning": 14,
+        "teamwork": 14,
+        "vision": 10,
+        "workrate": 15
+      },
+      "physical": {
+        "aggression": 8,
+        "anticipation": 10,
+        "bravery": 10,
+        "composure": 6,
+        "concentration": 10,
+        "decisions": 6,
+        "determination": 13,
+        "flair": 7
+      }
+    }
+  },
+  {
+    "id": 25022040,
+    "name": "Jasmin Scuk",
+    "team": "Altay SK",
+    "country": "Bosnia and Herzegovina",
+    "info": {
+      "age": 31,
+      "position": "DM, MC",
+      "foot": "Right",
+      "height": 185,
+      "weight": 74
+    },
+    "rating": { "ability": 58, "potential": 62 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 6,
+        "crossing": 7,
+        "dribbling": 12,
+        "finishing": 12,
+        "firsttouch": 11,
+        "freekick": 7,
+        "heading": 8,
+        "longshots": 13,
+        "longthrows": 7,
+        "marking": 13,
+        "passing": 13,
+        "penalty": 14,
+        "tackling": 14
+      },
+      "mental": {
+        "aggression": 12,
+        "anticipation": 13,
+        "bravery": 12,
+        "composure": 13,
+        "concentration": 7,
+        "decisions": 12,
+        "determination": 12,
+        "flair": 13,
+        "leadership": 8,
+        "offtheball": 14,
+        "positioning": 15,
+        "teamwork": 8,
+        "vision": 12,
+        "workrate": 10
+      },
+      "physical": {
+        "aggression": 6,
+        "anticipation": 7,
+        "bravery": 12,
+        "composure": 12,
+        "concentration": 11,
+        "decisions": 7,
+        "determination": 8,
+        "flair": 13
+      }
+    }
+  },
+  {
+    "id": 37052470,
+    "name": "Noussair Mazraoui",
+    "team": "Ajax",
+    "country": "Morocco",
+    "info": {
+      "age": 24,
+      "position": "DR, DM, WBR, MC, MR, AMR",
+      "foot": "Right",
+      "height": 183,
+      "weight": 72
+    },
+    "rating": { "ability": 72, "potential": 77 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 8,
+        "crossing": 11,
+        "dribbling": 12,
+        "finishing": 11,
+        "firsttouch": 15,
+        "freekick": 7,
+        "heading": 11,
+        "longshots": 12,
+        "longthrows": 12,
+        "marking": 13,
+        "passing": 14,
+        "penalty": 9,
+        "tackling": 13
+      },
+      "mental": {
+        "aggression": 10,
+        "anticipation": 12,
+        "bravery": 13,
+        "composure": 13,
+        "concentration": 13,
+        "decisions": 12,
+        "determination": 10,
+        "flair": 14,
+        "leadership": 11,
+        "offtheball": 15,
+        "positioning": 13,
+        "teamwork": 15,
+        "vision": 12,
+        "workrate": 15
+      },
+      "physical": {
+        "aggression": 8,
+        "anticipation": 11,
+        "bravery": 12,
+        "composure": 11,
+        "concentration": 15,
+        "decisions": 7,
+        "determination": 11,
+        "flair": 12
+      }
+    }
+  },
+  {
+    "id": 19162830,
+    "name": "Alex Telles",
+    "team": "Man Utd",
+    "country": "Brazil",
+    "info": {
+      "age": 29,
+      "position": "DL, WBL",
+      "foot": "Left",
+      "height": 181,
+      "weight": 73
+    },
+    "rating": { "ability": 72, "potential": 78 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 17,
+        "crossing": 17,
+        "dribbling": 13,
+        "finishing": 12,
+        "firsttouch": 14,
+        "freekick": 15,
+        "heading": 10,
+        "longshots": 14,
+        "longthrows": 12,
+        "marking": 11,
+        "passing": 13,
+        "penalty": 18,
+        "tackling": 13
+      },
+      "mental": {
+        "aggression": 16,
+        "anticipation": 13,
+        "bravery": 17,
+        "composure": 13,
+        "concentration": 13,
+        "decisions": 12,
+        "determination": 15,
+        "flair": 14,
+        "leadership": 14,
+        "offtheball": 15,
+        "positioning": 9,
+        "teamwork": 13,
+        "vision": 15,
+        "workrate": 16
+      },
+      "physical": {
+        "aggression": 17,
+        "anticipation": 17,
+        "bravery": 13,
+        "composure": 12,
+        "concentration": 14,
+        "decisions": 15,
+        "determination": 10,
+        "flair": 14
+      }
+    }
+  },
+  {
+    "id": 19196659,
+    "name": "Lourency",
+    "team": "Göztepe SK",
+    "country": "Brazil",
+    "info": {
+      "age": 25,
+      "position": "MR, AMR, AML",
+      "foot": "Right",
+      "height": 178,
+      "weight": 74
+    },
+    "rating": { "ability": 58, "potential": 65 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 9,
+        "crossing": 11,
+        "dribbling": 13,
+        "finishing": 12,
+        "firsttouch": 12,
+        "freekick": 12,
+        "heading": 9,
+        "longshots": 12,
+        "longthrows": 5,
+        "marking": 8,
+        "passing": 12,
+        "penalty": 9,
+        "tackling": 9
+      },
+      "mental": {
+        "aggression": 14,
+        "anticipation": 12,
+        "bravery": 15,
+        "composure": 12,
+        "concentration": 11,
+        "decisions": 8,
+        "determination": 15,
+        "flair": 13,
+        "leadership": 6,
+        "offtheball": 14,
+        "positioning": 7,
+        "teamwork": 9,
+        "vision": 11,
+        "workrate": 12
+      },
+      "physical": {
+        "aggression": 9,
+        "anticipation": 11,
+        "bravery": 13,
+        "composure": 12,
+        "concentration": 12,
+        "decisions": 12,
+        "determination": 9,
+        "flair": 12
+      }
+    }
+  },
+  {
+    "id": 37052843,
+    "name": "Denzel Dumfries",
+    "team": "Inter",
+    "country": "Netherlands",
+    "info": {
+      "age": 26,
+      "position": "DR, WBR, MR",
+      "foot": "Right",
+      "height": 189,
+      "weight": 80
+    },
+    "rating": { "ability": 72, "potential": 77 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 11,
+        "crossing": 13,
+        "dribbling": 13,
+        "finishing": 9,
+        "firsttouch": 13,
+        "freekick": 7,
+        "heading": 15,
+        "longshots": 10,
+        "longthrows": 11,
+        "marking": 11,
+        "passing": 13,
+        "penalty": 13,
+        "tackling": 13
+      },
+      "mental": {
+        "aggression": 14,
+        "anticipation": 11,
+        "bravery": 14,
+        "composure": 12,
+        "concentration": 12,
+        "decisions": 11,
+        "determination": 15,
+        "flair": 11,
+        "leadership": 13,
+        "offtheball": 13,
+        "positioning": 12,
+        "teamwork": 14,
+        "vision": 10,
+        "workrate": 16
+      },
+      "physical": {
+        "aggression": 11,
+        "anticipation": 13,
+        "bravery": 13,
+        "composure": 9,
+        "concentration": 13,
+        "decisions": 7,
+        "determination": 15,
+        "flair": 10
+      }
+    }
+  },
+  {
+    "id": 70079683,
+    "name": "Metehan Mimaroglu",
+    "team": "Adana Demirspor",
+    "country": "Turkey",
+    "info": {
+      "age": 27,
+      "position": "ML, AML, ST",
+      "foot": "Right",
+      "height": 180,
+      "weight": 79
+    },
+    "rating": { "ability": 60, "potential": 65 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 12,
+        "crossing": 13,
+        "dribbling": 14,
+        "finishing": 11,
+        "firsttouch": 11,
+        "freekick": 11,
+        "heading": 7,
+        "longshots": 11,
+        "longthrows": 5,
+        "marking": 6,
+        "passing": 11,
+        "penalty": 7,
+        "tackling": 6
+      },
+      "mental": {
+        "aggression": 11,
+        "anticipation": 11,
+        "bravery": 8,
+        "composure": 12,
+        "concentration": 9,
+        "decisions": 10,
+        "determination": 11,
+        "flair": 14,
+        "leadership": 7,
+        "offtheball": 12,
+        "positioning": 8,
+        "teamwork": 8,
+        "vision": 10,
+        "workrate": 8
+      },
+      "physical": {
+        "aggression": 12,
+        "anticipation": 13,
+        "bravery": 14,
+        "composure": 11,
+        "concentration": 11,
+        "decisions": 11,
+        "determination": 7,
+        "flair": 11
+      }
+    }
+  },
+  {
+    "id": 67155103,
+    "name": "Fernando Pacheco",
+    "team": "Alavés",
+    "country": "Spain",
+    "info": {
+      "age": 30,
+      "position": "GK",
+      "foot": "Left",
+      "height": 186,
+      "weight": 81
+    },
+    "rating": { "ability": 72, "potential": 73 },
+    "attributes": {
+      "goalkeeping": {
+        "aerialreach": 12,
+        "commandofarea": 13,
+        "communication": 14,
+        "eccentricity": 10,
+        "firsttouch": 12,
+        "handling": 15,
+        "kicking": 14,
+        "oneonones": 14,
+        "passing": 13,
+        "punching": 14,
+        "reflexes": 16,
+        "rushingout": 15
+      },
+      "technical": { "freekick": 7, "penalty": 5, "technique": 12 },
+      "mental": {
+        "aggression": 8,
+        "anticipation": 13,
+        "bravery": 13,
+        "composure": 12,
+        "concentration": 14,
+        "decisions": 12,
+        "determination": 13,
+        "flair": 5,
+        "leadership": 11,
+        "offtheball": 3,
+        "positioning": 13,
+        "teamwork": 14,
+        "vision": 11,
+        "workrate": 13
+      },
+      "physical": {
+        "aggression": 12,
+        "anticipation": 13,
+        "bravery": 14,
+        "composure": 10,
+        "concentration": 12,
+        "decisions": 15,
+        "determination": 14,
+        "flair": 14
+      }
+    }
+  },
+  {
+    "id": 70058751,
+    "name": "Tayfur Bingöl",
+    "team": "Alanyaspor",
+    "country": "Turkey",
+    "info": {
+      "age": 29,
+      "position": "MR, ML, AMR, AML",
+      "foot": "Right",
+      "height": 184,
+      "weight": 81
+    },
+    "rating": { "ability": 58, "potential": 63 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 5,
+        "crossing": 12,
+        "dribbling": 12,
+        "finishing": 13,
+        "firsttouch": 12,
+        "freekick": 10,
+        "heading": 11,
+        "longshots": 8,
+        "longthrows": 2,
+        "marking": 9,
+        "passing": 12,
+        "penalty": 8,
+        "tackling": 9
+      },
+      "mental": {
+        "aggression": 14,
+        "anticipation": 11,
+        "bravery": 13,
+        "composure": 8,
+        "concentration": 11,
+        "decisions": 8,
+        "determination": 15,
+        "flair": 12,
+        "leadership": 3,
+        "offtheball": 15,
+        "positioning": 6,
+        "teamwork": 13,
+        "vision": 11,
+        "workrate": 14
+      },
+      "physical": {
+        "aggression": 5,
+        "anticipation": 12,
+        "bravery": 12,
+        "composure": 13,
+        "concentration": 12,
+        "decisions": 10,
+        "determination": 11,
+        "flair": 8
+      }
+    }
+  },
+  {
+    "id": 18082114,
+    "name": "Kahraman Demirtas",
+    "team": "Göztepe SK",
+    "country": "Turkey",
+    "info": {
+      "age": 27,
+      "position": "DL, DC",
+      "foot": "Left",
+      "height": 184,
+      "weight": 85
+    },
+    "rating": { "ability": 50, "potential": 50 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 7,
+        "crossing": 8,
+        "dribbling": 10,
+        "finishing": 5,
+        "firsttouch": 10,
+        "freekick": 7,
+        "heading": 11,
+        "longshots": 7,
+        "longthrows": 13,
+        "marking": 12,
+        "passing": 11,
+        "penalty": 6,
+        "tackling": 12
+      },
+      "mental": {
+        "aggression": 13,
+        "anticipation": 11,
+        "bravery": 13,
+        "composure": 12,
+        "concentration": 10,
+        "decisions": 11,
+        "determination": 10,
+        "flair": 7,
+        "leadership": 7,
+        "offtheball": 8,
+        "positioning": 12,
+        "teamwork": 11,
+        "vision": 9,
+        "workrate": 11
+      },
+      "physical": {
+        "aggression": 7,
+        "anticipation": 8,
+        "bravery": 10,
+        "composure": 5,
+        "concentration": 10,
+        "decisions": 7,
+        "determination": 11,
+        "flair": 7
+      }
+    }
+  },
+  {
+    "id": 67030696,
+    "name": "Nacho",
+    "team": "Real Madrid",
+    "country": "Spain",
+    "info": {
+      "age": 32,
+      "position": "DR, DL, DC",
+      "foot": "Right",
+      "height": 180,
+      "weight": 77
+    },
+    "rating": { "ability": 79, "potential": 79 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 7,
+        "crossing": 12,
+        "dribbling": 10,
+        "finishing": 10,
+        "firsttouch": 13,
+        "freekick": 8,
+        "heading": 14,
+        "longshots": 8,
+        "longthrows": 13,
+        "marking": 15,
+        "passing": 14,
+        "penalty": 7,
+        "tackling": 16
+      },
+      "mental": {
+        "aggression": 15,
+        "anticipation": 16,
+        "bravery": 14,
+        "composure": 13,
+        "concentration": 16,
+        "decisions": 14,
+        "determination": 14,
+        "flair": 9,
+        "leadership": 13,
+        "offtheball": 12,
+        "positioning": 15,
+        "teamwork": 17,
+        "vision": 10,
+        "workrate": 17
+      },
+      "physical": {
+        "aggression": 7,
+        "anticipation": 12,
+        "bravery": 10,
+        "composure": 10,
+        "concentration": 13,
+        "decisions": 8,
+        "determination": 14,
+        "flair": 8
+      }
+    }
+  },
+  {
+    "id": 85140178,
+    "name": "Ousmane Dembélé",
+    "team": "FC Barcelona",
+    "country": "France",
+    "info": {
+      "age": 25,
+      "position": "MR, ML, AMR, AML",
+      "foot": "Both",
+      "height": 178,
+      "weight": 67
+    },
+    "rating": { "ability": 80, "potential": 86 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 13,
+        "crossing": 15,
+        "dribbling": 18,
+        "finishing": 12,
+        "firsttouch": 14,
+        "freekick": 10,
+        "heading": 7,
+        "longshots": 13,
+        "longthrows": 6,
+        "marking": 4,
+        "passing": 12,
+        "penalty": 11,
+        "tackling": 5
+      },
+      "mental": {
+        "aggression": 9,
+        "anticipation": 11,
+        "bravery": 11,
+        "composure": 10,
+        "concentration": 8,
+        "decisions": 9,
+        "determination": 13,
+        "flair": 18,
+        "leadership": 5,
+        "offtheball": 14,
+        "positioning": 5,
+        "teamwork": 8,
+        "vision": 13,
+        "workrate": 12
+      },
+      "physical": {
+        "aggression": 13,
+        "anticipation": 15,
+        "bravery": 18,
+        "composure": 12,
+        "concentration": 14,
+        "decisions": 10,
+        "determination": 7,
+        "flair": 13
+      }
+    }
+  },
+  {
+    "id": 7458280,
+    "name": "David Silva",
+    "team": "Real Sociedad",
+    "country": "Spain",
+    "info": {
+      "age": 36,
+      "position": "MC, MR, ML, AMR, AML, AMC",
+      "foot": "Left",
+      "height": 173,
+      "weight": 67
+    },
+    "rating": { "ability": 79, "potential": 90 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 13,
+        "crossing": 13,
+        "dribbling": 18,
+        "finishing": 13,
+        "firsttouch": 19,
+        "freekick": 14,
+        "heading": 9,
+        "longshots": 13,
+        "longthrows": 5,
+        "marking": 8,
+        "passing": 18,
+        "penalty": 12,
+        "tackling": 9
+      },
+      "mental": {
+        "aggression": 10,
+        "anticipation": 14,
+        "bravery": 13,
+        "composure": 17,
+        "concentration": 15,
+        "decisions": 17,
+        "determination": 15,
+        "flair": 17,
+        "leadership": 12,
+        "offtheball": 18,
+        "positioning": 8,
+        "teamwork": 15,
+        "vision": 18,
+        "workrate": 14
+      },
+      "physical": {
+        "aggression": 13,
+        "anticipation": 13,
+        "bravery": 18,
+        "composure": 13,
+        "concentration": 19,
+        "decisions": 14,
+        "determination": 9,
+        "flair": 13
+      }
+    }
+  },
+  {
+    "id": 67211760,
+    "name": "Mikel Merino",
+    "team": "Real Sociedad",
+    "country": "Spain",
+    "info": {
+      "age": 25,
+      "position": "MC",
+      "foot": "Left",
+      "height": 187,
+      "weight": 79
+    },
+    "rating": { "ability": 77, "potential": 80 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 8,
+        "crossing": 11,
+        "dribbling": 14,
+        "finishing": 10,
+        "firsttouch": 14,
+        "freekick": 10,
+        "heading": 14,
+        "longshots": 12,
+        "longthrows": 8,
+        "marking": 14,
+        "passing": 16,
+        "penalty": 10,
+        "tackling": 13
+      },
+      "mental": {
+        "aggression": 15,
+        "anticipation": 13,
+        "bravery": 15,
+        "composure": 13,
+        "concentration": 15,
+        "decisions": 14,
+        "determination": 16,
+        "flair": 13,
+        "leadership": 12,
+        "offtheball": 14,
+        "positioning": 14,
+        "teamwork": 15,
+        "vision": 16,
+        "workrate": 15
+      },
+      "physical": {
+        "aggression": 8,
+        "anticipation": 11,
+        "bravery": 14,
+        "composure": 10,
+        "concentration": 14,
+        "decisions": 10,
+        "determination": 14,
+        "flair": 12
+      }
+    }
+  },
+  {
+    "id": 43094100,
+    "name": "Lorenzo Pellegrini",
+    "team": "Roma",
+    "country": "Italy",
+    "info": {
+      "age": 25,
+      "position": "MC, AMC",
+      "foot": "Right",
+      "height": 186,
+      "weight": 77
+    },
+    "rating": { "ability": 79, "potential": 84 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 15,
+        "crossing": 16,
+        "dribbling": 14,
+        "finishing": 12,
+        "firsttouch": 17,
+        "freekick": 11,
+        "heading": 10,
+        "longshots": 13,
+        "longthrows": 4,
+        "marking": 11,
+        "passing": 15,
+        "penalty": 12,
+        "tackling": 11
+      },
+      "mental": {
+        "aggression": 14,
+        "anticipation": 15,
+        "bravery": 14,
+        "composure": 12,
+        "concentration": 12,
+        "decisions": 13,
+        "determination": 15,
+        "flair": 16,
+        "leadership": 13,
+        "offtheball": 16,
+        "positioning": 12,
+        "teamwork": 17,
+        "vision": 17,
+        "workrate": 15
+      },
+      "physical": {
+        "aggression": 15,
+        "anticipation": 16,
+        "bravery": 14,
+        "composure": 12,
+        "concentration": 17,
+        "decisions": 11,
+        "determination": 10,
+        "flair": 13
+      }
+    }
+  },
+  {
+    "id": 19249631,
+    "name": "Lucas Veríssimo",
+    "team": "SL Benfica",
+    "country": "Brazil",
+    "info": {
+      "age": 26,
+      "position": "DC",
+      "foot": "Right",
+      "height": 188,
+      "weight": 77
+    },
+    "rating": { "ability": 75, "potential": 79 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 5,
+        "crossing": 9,
+        "dribbling": 11,
+        "finishing": 10,
+        "firsttouch": 11,
+        "freekick": 5,
+        "heading": 15,
+        "longshots": 8,
+        "longthrows": 11,
+        "marking": 16,
+        "passing": 13,
+        "penalty": 7,
+        "tackling": 15
+      },
+      "mental": {
+        "aggression": 17,
+        "anticipation": 13,
+        "bravery": 18,
+        "composure": 13,
+        "concentration": 14,
+        "decisions": 14,
+        "determination": 17,
+        "flair": 7,
+        "leadership": 14,
+        "offtheball": 8,
+        "positioning": 16,
+        "teamwork": 12,
+        "vision": 8,
+        "workrate": 13
+      },
+      "physical": {
+        "aggression": 5,
+        "anticipation": 9,
+        "bravery": 11,
+        "composure": 10,
+        "concentration": 11,
+        "decisions": 5,
+        "determination": 15,
+        "flair": 8
+      }
+    }
+  },
+  {
+    "id": 70103144,
+    "name": "Erol Can Akdag",
+    "team": "Giresunspor",
+    "country": "Turkey",
+    "info": {
+      "age": 25,
+      "position": "DM, MC",
+      "foot": "Right",
+      "height": 174,
+      "weight": 68
+    },
+    "rating": { "ability": 50, "potential": 58 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 5,
+        "crossing": 7,
+        "dribbling": 10,
+        "finishing": 6,
+        "firsttouch": 11,
+        "freekick": 5,
+        "heading": 6,
+        "longshots": 7,
+        "longthrows": 1,
+        "marking": 11,
+        "passing": 12,
+        "penalty": 7,
+        "tackling": 10
+      },
+      "mental": {
+        "aggression": 14,
+        "anticipation": 12,
+        "bravery": 16,
+        "composure": 10,
+        "concentration": 11,
+        "decisions": 10,
+        "determination": 12,
+        "flair": 5,
+        "leadership": 11,
+        "offtheball": 7,
+        "positioning": 9,
+        "teamwork": 15,
+        "vision": 10,
+        "workrate": 17
+      },
+      "physical": {
+        "aggression": 5,
+        "anticipation": 7,
+        "bravery": 10,
+        "composure": 6,
+        "concentration": 11,
+        "decisions": 5,
+        "determination": 6,
+        "flair": 7
+      }
+    }
+  },
+  {
+    "id": 78060464,
+    "name": "José Giménez",
+    "team": "Atlético de Madrid",
+    "country": "Uruguay",
+    "info": {
+      "age": 27,
+      "position": "DC",
+      "foot": "Right",
+      "height": 185,
+      "weight": 77
+    },
+    "rating": { "ability": 80, "potential": 83 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 7,
+        "crossing": 10,
+        "dribbling": 11,
+        "finishing": 7,
+        "firsttouch": 12,
+        "freekick": 6,
+        "heading": 16,
+        "longshots": 8,
+        "longthrows": 13,
+        "marking": 15,
+        "passing": 12,
+        "penalty": 8,
+        "tackling": 16
+      },
+      "mental": {
+        "aggression": 15,
+        "anticipation": 15,
+        "bravery": 17,
+        "composure": 16,
+        "concentration": 15,
+        "decisions": 15,
+        "determination": 15,
+        "flair": 10,
+        "leadership": 13,
+        "offtheball": 10,
+        "positioning": 16,
+        "teamwork": 16,
+        "vision": 11,
+        "workrate": 16
+      },
+      "physical": {
+        "aggression": 7,
+        "anticipation": 10,
+        "bravery": 11,
+        "composure": 7,
+        "concentration": 12,
+        "decisions": 6,
+        "determination": 16,
+        "flair": 8
+      }
+    }
+  },
+  {
+    "id": 76049803,
+    "name": "Luis Díaz",
+    "team": "FC Porto",
+    "country": "Colombia",
+    "info": {
+      "age": 25,
+      "position": "AML, AMC",
+      "foot": "Right",
+      "height": 180,
+      "weight": 70
+    },
+    "rating": { "ability": 80, "potential": 84 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 9,
+        "crossing": 9,
+        "dribbling": 19,
+        "finishing": 14,
+        "firsttouch": 18,
+        "freekick": 11,
+        "heading": 9,
+        "longshots": 13,
+        "longthrows": 6,
+        "marking": 6,
+        "passing": 13,
+        "penalty": 11,
+        "tackling": 8
+      },
+      "mental": {
+        "aggression": 13,
+        "anticipation": 13,
+        "bravery": 11,
+        "composure": 13,
+        "concentration": 12,
+        "decisions": 12,
+        "determination": 15,
+        "flair": 19,
+        "leadership": 8,
+        "offtheball": 14,
+        "positioning": 7,
+        "teamwork": 9,
+        "vision": 12,
+        "workrate": 12
+      },
+      "physical": {
+        "aggression": 9,
+        "anticipation": 9,
+        "bravery": 19,
+        "composure": 14,
+        "concentration": 18,
+        "decisions": 11,
+        "determination": 9,
+        "flair": 13
+      }
+    }
+  },
+  {
+    "id": 67211695,
+    "name": "Theo Hernández",
+    "team": "Milan",
+    "country": "France",
+    "info": {
+      "age": 24,
+      "position": "DL, WBL, ML",
+      "foot": "Left",
+      "height": 184,
+      "weight": 81
+    },
+    "rating": { "ability": 80, "potential": 88 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 8,
+        "crossing": 15,
+        "dribbling": 16,
+        "finishing": 13,
+        "firsttouch": 14,
+        "freekick": 11,
+        "heading": 12,
+        "longshots": 14,
+        "longthrows": 13,
+        "marking": 12,
+        "passing": 13,
+        "penalty": 10,
+        "tackling": 14
+      },
+      "mental": {
+        "aggression": 14,
+        "anticipation": 13,
+        "bravery": 14,
+        "composure": 12,
+        "concentration": 11,
+        "decisions": 13,
+        "determination": 16,
+        "flair": 12,
+        "leadership": 12,
+        "offtheball": 17,
+        "positioning": 11,
+        "teamwork": 13,
+        "vision": 12,
+        "workrate": 14
+      },
+      "physical": {
+        "aggression": 8,
+        "anticipation": 15,
+        "bravery": 16,
+        "composure": 13,
+        "concentration": 14,
+        "decisions": 11,
+        "determination": 12,
+        "flair": 14
+      }
+    }
+  },
+  {
+    "id": 18032389,
+    "name": "Alpaslan Öztürk",
+    "team": "Galatasaray SK",
+    "country": "Turkey",
+    "info": {
+      "age": 28,
+      "position": "DC, DM",
+      "foot": "Right",
+      "height": 185,
+      "weight": 90
+    },
+    "rating": { "ability": 60, "potential": 63 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 5,
+        "crossing": 8,
+        "dribbling": 8,
+        "finishing": 12,
+        "firsttouch": 11,
+        "freekick": 11,
+        "heading": 14,
+        "longshots": 12,
+        "longthrows": 7,
+        "marking": 12,
+        "passing": 12,
+        "penalty": 16,
+        "tackling": 11
+      },
+      "mental": {
+        "aggression": 18,
+        "anticipation": 12,
+        "bravery": 14,
+        "composure": 14,
+        "concentration": 11,
+        "decisions": 12,
+        "determination": 13,
+        "flair": 10,
+        "leadership": 13,
+        "offtheball": 11,
+        "positioning": 13,
+        "teamwork": 16,
+        "vision": 12,
+        "workrate": 18
+      },
+      "physical": {
+        "aggression": 5,
+        "anticipation": 8,
+        "bravery": 8,
+        "composure": 12,
+        "concentration": 11,
+        "decisions": 11,
+        "determination": 14,
+        "flair": 12
+      }
+    }
+  },
+  {
+    "id": 70138807,
+    "name": "Youssouf Ndayishimiye",
+    "team": "İstanbul Başakşehir",
+    "country": "Burundi",
+    "info": {
+      "age": 23,
+      "position": "DM, MC",
+      "foot": "Right",
+      "height": 183,
+      "weight": 75
+    },
+    "rating": { "ability": 58, "potential": 68 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 8,
+        "crossing": 9,
+        "dribbling": 11,
+        "finishing": 6,
+        "firsttouch": 12,
+        "freekick": 7,
+        "heading": 13,
+        "longshots": 5,
+        "longthrows": 8,
+        "marking": 12,
+        "passing": 13,
+        "penalty": 8,
+        "tackling": 12
+      },
+      "mental": {
+        "aggression": 15,
+        "anticipation": 12,
+        "bravery": 16,
+        "composure": 13,
+        "concentration": 13,
+        "decisions": 12,
+        "determination": 16,
+        "flair": 6,
+        "leadership": 9,
+        "offtheball": 9,
+        "positioning": 12,
+        "teamwork": 15,
+        "vision": 11,
+        "workrate": 16
+      },
+      "physical": {
+        "aggression": 8,
+        "anticipation": 9,
+        "bravery": 11,
+        "composure": 6,
+        "concentration": 12,
+        "decisions": 7,
+        "determination": 13,
+        "flair": 5
+      }
+    }
+  },
+  {
+    "id": 8442121,
+    "name": "Mustapha Yatabaré",
+    "team": "Sivasspor",
+    "country": "Mali",
+    "info": {
+      "age": 36,
+      "position": "ST",
+      "foot": "Right",
+      "height": 186,
+      "weight": 81
+    },
+    "rating": { "ability": 58, "potential": 63 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 4,
+        "crossing": 11,
+        "dribbling": 10,
+        "finishing": 14,
+        "firsttouch": 11,
+        "freekick": 8,
+        "heading": 16,
+        "longshots": 12,
+        "longthrows": 5,
+        "marking": 6,
+        "passing": 11,
+        "penalty": 14,
+        "tackling": 4
+      },
+      "mental": {
+        "aggression": 12,
+        "anticipation": 13,
+        "bravery": 12,
+        "composure": 13,
+        "concentration": 13,
+        "decisions": 12,
+        "determination": 12,
+        "flair": 11,
+        "leadership": 9,
+        "offtheball": 12,
+        "positioning": 8,
+        "teamwork": 12,
+        "vision": 11,
+        "workrate": 13
+      },
+      "physical": {
+        "aggression": 4,
+        "anticipation": 11,
+        "bravery": 10,
+        "composure": 14,
+        "concentration": 11,
+        "decisions": 8,
+        "determination": 16,
+        "flair": 12
+      }
+    }
+  },
+  {
+    "id": 43010773,
+    "name": "Ciro Immobile",
+    "team": "Lazio",
+    "country": "Italy",
+    "info": {
+      "age": 32,
+      "position": "ST",
+      "foot": "Right",
+      "height": 185,
+      "weight": 85
+    },
+    "rating": { "ability": 82, "potential": 83 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 2,
+        "crossing": 3,
+        "dribbling": 13,
+        "finishing": 18,
+        "firsttouch": 13,
+        "freekick": 4,
+        "heading": 16,
+        "longshots": 14,
+        "longthrows": 3,
+        "marking": 3,
+        "passing": 12,
+        "penalty": 20,
+        "tackling": 7
+      },
+      "mental": {
+        "aggression": 14,
+        "anticipation": 18,
+        "bravery": 15,
+        "composure": 16,
+        "concentration": 13,
+        "decisions": 15,
+        "determination": 20,
+        "flair": 12,
+        "leadership": 15,
+        "offtheball": 19,
+        "positioning": 3,
+        "teamwork": 16,
+        "vision": 13,
+        "workrate": 17
+      },
+      "physical": {
+        "aggression": 2,
+        "anticipation": 3,
+        "bravery": 13,
+        "composure": 18,
+        "concentration": 13,
+        "decisions": 4,
+        "determination": 16,
+        "flair": 14
+      }
+    }
+  },
+  {
+    "id": 25034581,
+    "name": "Simon Deli",
+    "team": "Adana Demirspor",
+    "country": "Ivory Coast",
+    "info": {
+      "age": 30,
+      "position": "DC",
+      "foot": "Left",
+      "height": 192,
+      "weight": 84
+    },
+    "rating": { "ability": 64, "potential": 68 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 1,
+        "crossing": 7,
+        "dribbling": 12,
+        "finishing": 7,
+        "firsttouch": 12,
+        "freekick": 10,
+        "heading": 14,
+        "longshots": 5,
+        "longthrows": 5,
+        "marking": 15,
+        "passing": 14,
+        "penalty": 10,
+        "tackling": 14
+      },
+      "mental": {
+        "aggression": 12,
+        "anticipation": 9,
+        "bravery": 11,
+        "composure": 9,
+        "concentration": 6,
+        "decisions": 10,
+        "determination": 11,
+        "flair": 15,
+        "leadership": 10,
+        "offtheball": 11,
+        "positioning": 12,
+        "teamwork": 12,
+        "vision": 7,
+        "workrate": 10
+      },
+      "physical": {
+        "aggression": 1,
+        "anticipation": 7,
+        "bravery": 12,
+        "composure": 7,
+        "concentration": 12,
+        "decisions": 10,
+        "determination": 14,
+        "flair": 5
+      }
+    }
+  },
+  {
+    "id": 70094068,
+    "name": "Utku Yuvakuran",
+    "team": "Fatih Karagümrük",
+    "country": "Turkey",
+    "info": {
+      "age": 24,
+      "position": "GK",
+      "foot": "Right",
+      "height": 193,
+      "weight": 81
+    },
+    "rating": { "ability": 53, "potential": 65 },
+    "attributes": {
+      "goalkeeping": {
+        "aerialreach": 13,
+        "commandofarea": 9,
+        "communication": 9,
+        "eccentricity": 5,
+        "firsttouch": 11,
+        "handling": 12,
+        "kicking": 13,
+        "oneonones": 15,
+        "passing": 12,
+        "punching": 8,
+        "reflexes": 14,
+        "rushingout": 7
+      },
+      "technical": { "freekick": 7, "penalty": 5, "technique": 11 },
+      "mental": {
+        "aggression": 10,
+        "anticipation": 11,
+        "bravery": 10,
+        "composure": 14,
+        "concentration": 12,
+        "decisions": 9,
+        "determination": 10,
+        "flair": 3,
+        "leadership": 8,
+        "offtheball": 2,
+        "positioning": 11,
+        "teamwork": 11,
+        "vision": 8,
+        "workrate": 9
+      },
+      "physical": {
+        "aggression": 13,
+        "anticipation": 9,
+        "bravery": 9,
+        "composure": 5,
+        "concentration": 11,
+        "decisions": 12,
+        "determination": 13,
+        "flair": 15
+      }
+    }
+  },
+  {
+    "id": 70117178,
+    "name": "Serkan Asan",
+    "team": "Trabzonspor",
+    "country": "Turkey",
+    "info": {
+      "age": 23,
+      "position": "DR, WBR, MR",
+      "foot": "Right",
+      "height": 170,
+      "weight": 72
+    },
+    "rating": { "ability": 53, "potential": 65 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 6,
+        "crossing": 12,
+        "dribbling": 14,
+        "finishing": 6,
+        "firsttouch": 12,
+        "freekick": 5,
+        "heading": 8,
+        "longshots": 6,
+        "longthrows": 9,
+        "marking": 10,
+        "passing": 12,
+        "penalty": 5,
+        "tackling": 13
+      },
+      "mental": {
+        "aggression": 14,
+        "anticipation": 8,
+        "bravery": 15,
+        "composure": 8,
+        "concentration": 12,
+        "decisions": 8,
+        "determination": 7,
+        "flair": 8,
+        "leadership": 7,
+        "offtheball": 11,
+        "positioning": 9,
+        "teamwork": 14,
+        "vision": 8,
+        "workrate": 17
+      },
+      "physical": {
+        "aggression": 6,
+        "anticipation": 12,
+        "bravery": 14,
+        "composure": 6,
+        "concentration": 12,
+        "decisions": 5,
+        "determination": 8,
+        "flair": 6
+      }
+    }
+  },
+  {
+    "id": 5113149,
+    "name": "Ashley Young",
+    "team": "Aston Villa",
+    "country": "England",
+    "info": {
+      "age": 36,
+      "position": "DR, DL, WBR, WBL, MR, ML",
+      "foot": "Right",
+      "height": 175,
+      "weight": 65
+    },
+    "rating": { "ability": 70, "potential": 78 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 12,
+        "crossing": 15,
+        "dribbling": 12,
+        "finishing": 10,
+        "firsttouch": 14,
+        "freekick": 14,
+        "heading": 7,
+        "longshots": 12,
+        "longthrows": 8,
+        "marking": 10,
+        "passing": 13,
+        "penalty": 12,
+        "tackling": 10
+      },
+      "mental": {
+        "aggression": 7,
+        "anticipation": 13,
+        "bravery": 10,
+        "composure": 11,
+        "concentration": 12,
+        "decisions": 13,
+        "determination": 14,
+        "flair": 9,
+        "leadership": 14,
+        "offtheball": 13,
+        "positioning": 13,
+        "teamwork": 16,
+        "vision": 10,
+        "workrate": 15
+      },
+      "physical": {
+        "aggression": 12,
+        "anticipation": 15,
+        "bravery": 12,
+        "composure": 10,
+        "concentration": 14,
+        "decisions": 14,
+        "determination": 7,
+        "flair": 12
+      }
+    }
+  },
+  {
+    "id": 70097267,
+    "name": "Dorukhan Toköz",
+    "team": "Trabzonspor",
+    "country": "Turkey",
+    "info": {
+      "age": 26,
+      "position": "DM, MC",
+      "foot": "Right",
+      "height": 180,
+      "weight": 73
+    },
+    "rating": { "ability": 60, "potential": 65 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 8,
+        "crossing": 10,
+        "dribbling": 12,
+        "finishing": 9,
+        "firsttouch": 12,
+        "freekick": 8,
+        "heading": 12,
+        "longshots": 12,
+        "longthrows": 11,
+        "marking": 11,
+        "passing": 12,
+        "penalty": 8,
+        "tackling": 13
+      },
+      "mental": {
+        "aggression": 17,
+        "anticipation": 13,
+        "bravery": 17,
+        "composure": 11,
+        "concentration": 14,
+        "decisions": 12,
+        "determination": 16,
+        "flair": 9,
+        "leadership": 8,
+        "offtheball": 13,
+        "positioning": 10,
+        "teamwork": 17,
+        "vision": 10,
+        "workrate": 17
+      },
+      "physical": {
+        "aggression": 8,
+        "anticipation": 10,
+        "bravery": 12,
+        "composure": 9,
+        "concentration": 12,
+        "decisions": 8,
+        "determination": 12,
+        "flair": 12
+      }
+    }
+  },
+  {
+    "id": 78074592,
+    "name": "Diego Rossi",
+    "team": "Fenerbahçe",
+    "country": "Uruguay",
+    "info": {
+      "age": 24,
+      "position": "AMR, AML, AMC, ST",
+      "foot": "Right",
+      "height": 170,
+      "weight": 65
+    },
+    "rating": { "ability": 66, "potential": 74 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 11,
+        "crossing": 13,
+        "dribbling": 14,
+        "finishing": 14,
+        "firsttouch": 13,
+        "freekick": 10,
+        "heading": 8,
+        "longshots": 12,
+        "longthrows": 9,
+        "marking": 6,
+        "passing": 12,
+        "penalty": 8,
+        "tackling": 6
+      },
+      "mental": {
+        "aggression": 4,
+        "anticipation": 12,
+        "bravery": 7,
+        "composure": 10,
+        "concentration": 9,
+        "decisions": 11,
+        "determination": 13,
+        "flair": 13,
+        "leadership": 7,
+        "offtheball": 13,
+        "positioning": 9,
+        "teamwork": 9,
+        "vision": 13,
+        "workrate": 11
+      },
+      "physical": {
+        "aggression": 11,
+        "anticipation": 13,
+        "bravery": 14,
+        "composure": 14,
+        "concentration": 13,
+        "decisions": 10,
+        "determination": 8,
+        "flair": 12
+      }
+    }
+  },
+  {
+    "id": 70065888,
+    "name": "Ahmet Oguz",
+    "team": "Sivasspor",
+    "country": "Turkey",
+    "info": {
+      "age": 29,
+      "position": "DR, WBR",
+      "foot": "Right",
+      "height": 175,
+      "weight": 81
+    },
+    "rating": { "ability": 55, "potential": 63 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 4,
+        "crossing": 11,
+        "dribbling": 10,
+        "finishing": 5,
+        "firsttouch": 10,
+        "freekick": 2,
+        "heading": 8,
+        "longshots": 10,
+        "longthrows": 16,
+        "marking": 11,
+        "passing": 10,
+        "penalty": 7,
+        "tackling": 13
+      },
+      "mental": {
+        "aggression": 12,
+        "anticipation": 11,
+        "bravery": 14,
+        "composure": 11,
+        "concentration": 15,
+        "decisions": 12,
+        "determination": 12,
+        "flair": 7,
+        "leadership": 10,
+        "offtheball": 11,
+        "positioning": 13,
+        "teamwork": 14,
+        "vision": 8,
+        "workrate": 14
+      },
+      "physical": {
+        "aggression": 4,
+        "anticipation": 11,
+        "bravery": 10,
+        "composure": 5,
+        "concentration": 10,
+        "decisions": 2,
+        "determination": 8,
+        "flair": 10
+      }
+    }
+  },
+  {
+    "id": 37000124,
+    "name": "Jeremain Lens",
+    "team": "Beşiktaş",
+    "country": "Netherlands",
+    "info": {
+      "age": 34,
+      "position": "AMR, AML",
+      "foot": "Right",
+      "height": 178,
+      "weight": 80
+    },
+    "rating": { "ability": 55, "potential": 73 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 12,
+        "crossing": 12,
+        "dribbling": 13,
+        "finishing": 10,
+        "firsttouch": 13,
+        "freekick": 12,
+        "heading": 10,
+        "longshots": 10,
+        "longthrows": 3,
+        "marking": 6,
+        "passing": 10,
+        "penalty": 11,
+        "tackling": 6
+      },
+      "mental": {
+        "aggression": 12,
+        "anticipation": 12,
+        "bravery": 10,
+        "composure": 12,
+        "concentration": 10,
+        "decisions": 11,
+        "determination": 8,
+        "flair": 12,
+        "leadership": 6,
+        "offtheball": 13,
+        "positioning": 8,
+        "teamwork": 13,
+        "vision": 12,
+        "workrate": 10
+      },
+      "physical": {
+        "aggression": 12,
+        "anticipation": 12,
+        "bravery": 13,
+        "composure": 10,
+        "concentration": 13,
+        "decisions": 12,
+        "determination": 10,
+        "flair": 10
+      }
+    }
+  },
+  {
+    "id": 70104416,
+    "name": "Mamadou Diarra",
+    "team": "Giresunspor",
+    "country": "Senegal",
+    "info": {
+      "age": 24,
+      "position": "DC",
+      "foot": "Right",
+      "height": 179,
+      "weight": 70
+    },
+    "rating": { "ability": 55, "potential": 65 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 5,
+        "crossing": 6,
+        "dribbling": 11,
+        "finishing": 9,
+        "firsttouch": 9,
+        "freekick": 7,
+        "heading": 14,
+        "longshots": 8,
+        "longthrows": 8,
+        "marking": 13,
+        "passing": 11,
+        "penalty": 6,
+        "tackling": 15
+      },
+      "mental": {
+        "aggression": 15,
+        "anticipation": 11,
+        "bravery": 15,
+        "composure": 10,
+        "concentration": 11,
+        "decisions": 9,
+        "determination": 10,
+        "flair": 3,
+        "leadership": 9,
+        "offtheball": 7,
+        "positioning": 11,
+        "teamwork": 13,
+        "vision": 5,
+        "workrate": 12
+      },
+      "physical": {
+        "aggression": 5,
+        "anticipation": 6,
+        "bravery": 11,
+        "composure": 9,
+        "concentration": 9,
+        "decisions": 7,
+        "determination": 14,
+        "flair": 8
+      }
+    }
+  },
+  {
+    "id": 91137278,
+    "name": "Nazim Sangaré",
+    "team": "Fenerbahçe",
+    "country": "Turkey",
+    "info": {
+      "age": 28,
+      "position": "DR, WBR",
+      "foot": "Right",
+      "height": 185,
+      "weight": 72
+    },
+    "rating": { "ability": 60, "potential": 65 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 5,
+        "crossing": 11,
+        "dribbling": 11,
+        "finishing": 8,
+        "firsttouch": 11,
+        "freekick": 9,
+        "heading": 11,
+        "longshots": 8,
+        "longthrows": 14,
+        "marking": 11,
+        "passing": 11,
+        "penalty": 8,
+        "tackling": 11
+      },
+      "mental": {
+        "aggression": 13,
+        "anticipation": 12,
+        "bravery": 12,
+        "composure": 11,
+        "concentration": 10,
+        "decisions": 11,
+        "determination": 12,
+        "flair": 10,
+        "leadership": 7,
+        "offtheball": 13,
+        "positioning": 9,
+        "teamwork": 13,
+        "vision": 9,
+        "workrate": 14
+      },
+      "physical": {
+        "aggression": 5,
+        "anticipation": 11,
+        "bravery": 11,
+        "composure": 8,
+        "concentration": 11,
+        "decisions": 9,
+        "determination": 11,
+        "flair": 8
+      }
+    }
+  },
+  {
+    "id": 16038420,
+    "name": "Peter Zulj",
+    "team": "İstanbul Başakşehir",
+    "country": "Austria",
+    "info": {
+      "age": 29,
+      "position": "DM, MC, AMC",
+      "foot": "Left",
+      "height": 185,
+      "weight": 80
+    },
+    "rating": { "ability": 60, "potential": 68 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 10,
+        "crossing": 8,
+        "dribbling": 12,
+        "finishing": 13,
+        "firsttouch": 12,
+        "freekick": 13,
+        "heading": 8,
+        "longshots": 13,
+        "longthrows": 6,
+        "marking": 11,
+        "passing": 12,
+        "penalty": 13,
+        "tackling": 12
+      },
+      "mental": {
+        "aggression": 10,
+        "anticipation": 12,
+        "bravery": 12,
+        "composure": 12,
+        "concentration": 12,
+        "decisions": 12,
+        "determination": 12,
+        "flair": 10,
+        "leadership": 7,
+        "offtheball": 14,
+        "positioning": 13,
+        "teamwork": 11,
+        "vision": 12,
+        "workrate": 12
+      },
+      "physical": {
+        "aggression": 10,
+        "anticipation": 8,
+        "bravery": 12,
+        "composure": 13,
+        "concentration": 12,
+        "decisions": 13,
+        "determination": 8,
+        "flair": 13
+      }
+    }
+  },
+  {
+    "id": 43093171,
+    "name": "Piotr Zielinski",
+    "team": "Napoli",
+    "country": "Poland",
+    "info": {
+      "age": 28,
+      "position": "MC, ML, AMC",
+      "foot": "Right",
+      "height": 180,
+      "weight": 69
+    },
+    "rating": { "ability": 79, "potential": 81 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 14,
+        "crossing": 14,
+        "dribbling": 16,
+        "finishing": 14,
+        "firsttouch": 17,
+        "freekick": 12,
+        "heading": 7,
+        "longshots": 15,
+        "longthrows": 3,
+        "marking": 7,
+        "passing": 17,
+        "penalty": 10,
+        "tackling": 7
+      },
+      "mental": {
+        "aggression": 10,
+        "anticipation": 14,
+        "bravery": 12,
+        "composure": 13,
+        "concentration": 12,
+        "decisions": 14,
+        "determination": 11,
+        "flair": 15,
+        "leadership": 10,
+        "offtheball": 15,
+        "positioning": 10,
+        "teamwork": 15,
+        "vision": 15,
+        "workrate": 12
+      },
+      "physical": {
+        "aggression": 14,
+        "anticipation": 14,
+        "bravery": 16,
+        "composure": 14,
+        "concentration": 17,
+        "decisions": 12,
+        "determination": 7,
+        "flair": 15
+      }
+    }
+  },
+  {
+    "id": 93057215,
+    "name": "Deniz Hümmet",
+    "team": "Çaykur Rizespor",
+    "country": "Turkey",
+    "info": {
+      "age": 25,
+      "position": "AMR, AML, AMC, ST",
+      "foot": "Right",
+      "height": 187,
+      "weight": 80
+    },
+    "rating": { "ability": 54, "potential": 63 },
+    "attributes": {
+      "goalkeeping": {},
+      "technical": {
+        "corners": 8,
+        "crossing": 9,
+        "dribbling": 11,
+        "finishing": 13,
+        "firsttouch": 12,
+        "freekick": 10,
+        "heading": 10,
+        "longshots": 9,
+        "longthrows": 7,
+        "marking": 7,
+        "passing": 11,
+        "penalty": 11,
+        "tackling": 7
+      },
+      "mental": {
+        "aggression": 11,
+        "anticipation": 11,
+        "bravery": 11,
+        "composure": 12,
+        "concentration": 11,
+        "decisions": 12,
+        "determination": 11,
+        "flair": 12,
+        "leadership": 12,
+        "offtheball": 13,
+        "positioning": 9,
+        "teamwork": 12,
+        "vision": 10,
+        "workrate": 11
+      },
+      "physical": {
+        "aggression": 8,
+        "anticipation": 9,
+        "bravery": 11,
+        "composure": 13,
+        "concentration": 12,
+        "decisions": 10,
+        "determination": 10,
+        "flair": 9
+      }
+    }
+  }
+]
