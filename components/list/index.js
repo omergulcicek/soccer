@@ -22,11 +22,12 @@ export default function List() {
           </thead>
           <tbody>
             {data
-              .slice(0, 10)
+              .slice(0, 500)
               .sort((a, b) => b.rating.ability - a.rating.ability)
               .map(
                 (
                   {
+                    id,
                     rating: { ability, potential },
                     name,
                     info: { age, position },
@@ -39,14 +40,14 @@ export default function List() {
                     key={i}
                     className="transition duration-75 even:bg-slate-100"
                   >
-                    <td className="pl-2 tex">
+                    <td className="pl-2 w-16">
                       <div
                         className={`bg-blue-600 h-10 w-10 text-center text-white rounded `}
                       >
                         {ability}
                       </div>
                     </td>
-                    <td className="pl-2">
+                    <td className="pl-2 w-24">
                       <div
                         className={`bg-green-600 h-10 w-10 text-center text-white rounded`}
                       >
@@ -54,7 +55,7 @@ export default function List() {
                       </div>
                     </td>
                     <td className="pl-2">
-                      <Link href={`/player/${friendlyUrl(name)}`}>
+                      <Link href={`/player/${id}-${friendlyUrl(name)}`}>
                         <a className="text-lg transition hover:text-blue-500">
                           {name}
                         </a>
@@ -66,12 +67,20 @@ export default function List() {
                     <td className="pl-2">{age}</td>
                     <td className="pl-2">
                       <Link href={`/club/${friendlyUrl(team)}`}>
-                        <a className="transition hover:text-blue-500">{team}</a>
+                        <a className="transition hover:text-blue-500 inline-flex items-center">
+                          <Image
+                            src={`/team/${team}.png`}
+                            alt={team}
+                            width={28}
+                            height={28}
+                          />
+                          <span className="ml-2">{team}</span>
+                        </a>
                       </Link>
                     </td>
                     <td className="pl-2">
                       <Link href={`/country/${friendlyUrl(country)}`}>
-                        <a className="transition hover:text-blue-500 flex items-center">
+                        <a className="transition hover:text-blue-500 inline-flex items-center">
                           <span
                             className={`flag-icon flag-icon-${convertCountryISO(
                               country
