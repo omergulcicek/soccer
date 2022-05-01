@@ -20,6 +20,10 @@ export default function convertCountryISO(code) {
       return "AR"
     case "American Samoa":
       return "AS"
+    case "Austria":
+      return "AT"
+    case "Australia":
+      return "AU"
     case "Aruba":
       return "AW"
     case "Åland Islands":
@@ -27,6 +31,7 @@ export default function convertCountryISO(code) {
     case "Azerbaijan":
       return "AZ"
     case "Bosnia & Herzegovina":
+    case "Bosnia and Herzegovina":
       return "BA"
     case "Barbados":
       return "BB"
@@ -79,6 +84,7 @@ export default function convertCountryISO(code) {
     case "Switzerland":
       return "CH"
     case "Côte d’Ivoire":
+    case "Ivory Coast":
       return "CI"
     case "Cook Islands":
       return "CK"
