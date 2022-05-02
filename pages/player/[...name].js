@@ -1,10 +1,9 @@
 import { useRouter } from "next/router"
+import Image from "next/image"
 import convertCountryISO from "../../utils/convertCountryISO"
 import data from "./../../public/player.json"
 import "./../../node_modules/flag-icons-svg/css/flag-icons.css"
-
-import RadarChart from "react-svg-radar-chart"
-import "react-svg-radar-chart/build/css/index.css"
+import Chart from "../../components/chart"
 
 export default function Player() {
   const router = useRouter()
@@ -15,59 +14,46 @@ export default function Player() {
     country,
     id,
     info,
-    position,
     age,
     name: fullname,
     rating,
     team,
   } = data.filter(
-    (e) => e.id == 735216
+    (e) => e.id == name[0].split("-")[0]
     //document.location.pathname.replace("/player/", "").split("-")[0] * 1
   )[0]
-
-  const chartData = [
-    {
-      data: {
-        defending: attributes.technical.tackling / 20,
-        physical: 0.83,
-        speed: 0.8,
-        vision: attributes.mental.vision / 20,
-        attacking: attributes.technical.finishing / 20,
-        technical: attributes.technical.firsttouch / 20,
-        aerial: attributes.technical.heading / 20,
-        mental: attributes.mental.determination / 20,
-      },
-      meta: { color: "red" },
-    },
-  ]
-
-  const captions = {
-    defending: "Defending",
-    physical: "Physical",
-    speed: "speed",
-    vision: "vision",
-    attacking: "attacking",
-    technical: "technical",
-    aerial: "aerial",
-    mental: "mental",
-  }
-
-  console.log(attributes)
 
   return (
     <>
       <main className="flex gap-10">
         <aside className="shadow-xl rounded min-w-[320px] p-5">
-          <header className="flex flex-col">
-            <h1 className="text-3xl font-bold">{fullname.split("-")[0]}</h1>
+          <header className="flex flex-col items-center gap-2">
+            <Image
+              src={`/faces/${id}.png`}
+              alt={name}
+              width={240}
+              height={240}
+            />
 
-            <span>{team}</span>
+            <h1 className="text-3xl font-bold my-5">
+              {fullname.split("-")[0]}
+            </h1>
 
-            <div>
+            <div className="flex items-center gap-2">
+              <Image
+                src={`/team/${team}.png`}
+                alt={team}
+                width={28}
+                height={28}
+              />
+              <span>{team}</span>
+            </div>
+
+            <div className="flex items-center gap-2">
               <span
                 className={`flag-icon flag-icon-${convertCountryISO(
                   country
-                ).toLowerCase()} text-xl rounded mr-2`}
+                ).toLowerCase()} text-xl rounded`}
               ></span>
 
               <span>{country}</span>
@@ -179,7 +165,7 @@ export default function Player() {
           </section>
 
           <section>
-            <RadarChart captions={captions} data={chartData} size={450} />
+            <Chart data={attributes} />
           </section>
         </div>
       </main>
