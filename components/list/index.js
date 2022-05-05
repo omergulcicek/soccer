@@ -51,7 +51,11 @@ export default function List() {
                       <div
                         className={`bg-green-600 h-10 w-10 text-center text-white rounded`}
                       >
-                        {potential}
+                        {potential ? (
+                          potential
+                        ) : (
+                          <span className="text-2xl">⭑</span>
+                        )}
                       </div>
                     </td>
                     <td className="pl-2">
