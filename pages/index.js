@@ -10,8 +10,10 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <main>
-        <List />
+      <main className="grid grid-cols-4 gap-4">
+        <div className="col-start-1 col-end-5">
+          <List />
+        </div>
       </main>
     </>
   )
