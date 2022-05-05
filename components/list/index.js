@@ -67,7 +67,7 @@ export default function List() {
                           height={80}
                         />
                         <div className="flex flex-col">
-                          <Link href={`/player/${id}-${friendlyUrl(name)}`}>
+                          <Link href={`/players/${id}-${friendlyUrl(name)}`}>
                             <a className="text-lg transition hover:text-blue-500">
                               {name}
                             </a>
@@ -80,7 +80,7 @@ export default function List() {
                     </td>
                     <td className="pl-2">{age}</td>
                     <td className="pl-2">
-                      <Link href={`/club/${friendlyUrl(team)}`}>
+                      <Link href={`/clubs/${friendlyUrl(team)}`}>
                         <a className="transition hover:text-blue-500 inline-flex items-center">
                           <Image
                             src={`/team/${team}.png`}
@@ -93,7 +93,7 @@ export default function List() {
                       </Link>
                     </td>
                     <td className="pl-2">
-                      <Link href={`/country/${friendlyUrl(country)}`}>
+                      <Link href={`/countries/${friendlyUrl(country)}`}>
                         <a className="transition hover:text-blue-500 inline-flex items-center">
                           <span
                             className={`flag-icon flag-icon-${convertCountryISO(

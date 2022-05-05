@@ -14,14 +14,9 @@ export default function Player() {
     country,
     id,
     info,
-    age,
     name: fullname,
-    rating,
     team,
-  } = data.filter(
-    (e) => e.id == name[0].split("-")[0]
-    //document.location.pathname.replace("/player/", "").split("-")[0] * 1
-  )[0]
+  } = data.filter((e) => e.id == name[0].split("-")[0])[0]
 
   return (
     <>
