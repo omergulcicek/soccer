@@ -31,4 +31,5 @@ yarn-error.log*
 # vercel
 .vercel
 
-/public
+# player faces
+public/faces
